@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adhyay</title>
+    <link rel="stylesheet" href="css/preloader.css">
+    <link rel="stylesheet" href="css/index.css">
+    <meta name="description" title="software development services company" content="website design and development services">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
+    <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-180966897-1');
+	</script>
+
+</head>
+<body>
+
+    <div class="preloader">
+        <div class="loader">
+            <div class="inner one"></div>
+            <div class="inner two"></div>
+            <div class="inner three"></div>
+        </div> 
+    </div>    
+    
+    <script>
+	$(document).ready(function(){
+		$(".hasChild").prepend('<span class="dropDown"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/> </svg></span>');
+		
+		$(".dropDown").click(function(){
+			//$(".hasChild ul").slideUp();
+			$(this).parent().find("ul").slideToggle();
+		});
+	});
+
+        window.addEventListener( 'load' , ()=>{
+            let preload = document.querySelector('.preloader');
+            preload.style.opacity = '0';
+            setTimeout( function(){
+                preload.style.display="none";
+            },500 );
+        });
+
+    </script>
+
+    <!-- <div class="rs">
+        <div class="rs__container">
+            <div class="rs__slide rs__slide--1">
+                <div class="rs__slide--1--a rs__slide--1--item"></div>
+                <div class="rs__slide--1--b rs__slide--1--item"></div>
+                <div class="rs__slide--1--c rs__slide--1--item"></div>
+                <div class="rs__slide--1--d rs__slide--1--item"></div>
+                <div class="rs__slide--1--e rs__slide--1--item"></div>
+                <div class="rs__slide--1--f rs__slide--1--item"></div>
+            </div>
+            <div class="rs__slide rs__slide--2">
+                <div class="rs__slide--2--a rs__slide--2--item"></div>
+                <div class="rs__slide--2--b rs__slide--2--item"></div>
+                <div class="rs__slide--2--c rs__slide--2--item"></div>
+                <div class="rs__slide--2--d rs__slide--2--item"></div>
+            </div>
+            <div class="rs__slide rs__slide--3">
+                <div class="rs__slide--3--a rs__slide--3--item"></div>
+                <div class="rs__slide--3--b rs__slide--3--item"></div>
+                <div class="rs__slide--3--c rs__slide--3--item"></div>
+                <div class="rs__slide--3--d rs__slide--3--item"></div>
+            </div>
+            <div class="rs__slide rs__slide--4">
+                <div class="rs__slide--4--a rs__slide--4--item"></div>
+                <div class="rs__slide--4--b rs__slide--4--item"></div>
+                <div class="rs__slide--4--c rs__slide--4--item"></div>
+                <div class="rs__slide--4--d rs__slide--4--item"></div>
+                <div class="rs__slide--4--e rs__slide--4--item"></div>
+            </div>
+            <div class="rs__slide rs__slide--5">
+                <div class="rs__slide--5--a rs__slide--5--item"></div>
+                <div class="rs__slide--5--a rs__slide--5--item"></div>
+                <div class="rs__slide--5--a rs__slide--5--item"></div>
+                <div class="rs__slide--5--a rs__slide--5--item"></div>
+                <div class="rs__slide--5--a rs__slide--5--item"></div>
+            </div>
+        </div>
+    </div> -->
+
+    <div class="parallax">
+
+        <div class="parallax__logo"></div>
+
+        <div class="navigation">
+            <div class="navigation--line navigation--line--1"></div>
+            <div class="navigation--line navigation--line--2"></div>
+            <div class="navigation--line navigation--line--3"></div>
+        </div>
+
+        <div class="navigation--list">
+			<ul>
+				<li class="navigation--list--item--1 ">
+					<a href="srms.html" class="navigation--list--item"> Home </a>
+				</li>
+				<li class="navigation--list--item--2 hasChild">
+					<a href="srms.html" class="navigation--list--item"> SRMS </a>
+					<ul style="">
+						<li><a href="#">Lms</a></li>
+						<li><a href="#">Lms+ online classes</a></li>
+						<li><a href="#">Erp</a></li>
+						<li><a href="#">Erp+lms</a></li>
+						<li><a href="#">Erp+lms+ online classes</a></li>
+						<li><a href="#">Contact sales</a></li>
+					</ul>
+				</li>
+				<li class="navigation--list--item--3 hasChild">
+					<a href="ai.html" class="navigation--list--item ">video confrencening</a>
+					<ul style="">
+						<li><a href="#">Features</a></li>
+						<li><a href="#">Pricing</a></li>
+						<li><a href="#">API integration</a></li>
+						<li><a href="#">Contact sales</a></li>
+					</ul>
+					</li>
+				<li class="navigation--list--item--4">
+					<a href="website.html" class="navigation--list--item ">
+						WEBSITE
+					</a>
+				</li>
+				<li class="navigation--list--item--5">
+					<a href="about.html" class="navigation--list--item ">
+					   ABOUT US
+					</a>
+				</li>
+				<li class="navigation--list--item--6">
+					<a href="contact.html" class="navigation--list--item ">
+						CONTACT
+					</a>
+				</li>
+			</ul>
+        </div>
+
+        <div class="parallax__iphone">
+            <div class="parallax__iphone--content">
+                    <div class="parallax__iphone--screen parallax__iphone--screen--1"></div>
+                    <div class="parallax__iphone--screen parallax__iphone--screen--2"></div>
+                    <div class="parallax__iphone--screen parallax__iphone--screen--3"></div>
+            </div>
+        </div>
+        <div class="parallax__dot">
+            <div class="parallax__dot--1 parallax__dot--item"></div>
+            <div class="parallax__dot--2 parallax__dot--item"></div>
+            <div class="parallax__dot--3 parallax__dot--item"></div>
+        </div>
+
+        <div class="parallax__container parallax__container--1" itemscope>
+            <div class="parallax__container--1__pencil"></div>
+            <div class="parallax__container--1__eraser"></div>
+            <div class="parallax__container__paragraph parallax__container__paragraph--1">
+                <h1 class="heading--4">A Brand New</h1>
+                <h1 class="heading--4 margin--bottom--2 margin--bottom--2">Solution.</h1>
+                <p class="paragraph--4">We take things to a totally new level with this highly usable and affordable system. We are one of the best software development company and technology advancement is our priority. </p>
+                <a href="srms.html" class="parallax__container--1__button" itemprop = "technology">SRMS TECHNOLOGY</a>
+            </div>
+            <div class="parallax__container__backparagraph parallax__container__backparagraph--1">
+                 <h1 class="heading--1" itemprop = "services">INNOVATIVE</h1>
+                <h1 class="heading--1" itemprop = "services">REVOLUTIONARY</h1>
+                <h1 class="heading--1" itemprop = "services">CREATIVE</h1>
+            </div>
+            <div class="parallax__container--1__cup"></div>
+        </div>
+
+        <div class="parallax__container parallax__container--2" itemscope>
+            <div class="parallax__container__paragraph parallax__container__paragraph--2">
+                <h1 class="heading--4">What’s new</h1>
+                <h1 class="heading--4 margin--bottom--2" itemprop = "technology">in AI?</h1>
+                <p class="paragraph--4">At Adhyay, we are creating technologies that fill up the gap with easy to use functionalities, as after all technologies should not be boring to get into routine for the daily use.</p>
+                <a href="ai.html" class="parallax__container--1__button">Find out more!</a>
+            </div>
+            <div class="parallax__container__backparagraph parallax__container__backparagraph--2">
+                <h1 class="heading--1" itemprop = "services">INNOVATIVE</h1>
+                <h1 class="heading--1" itemprop = "services">REVOLUTIONARY</h1>
+                <h1 class="heading--1" itemprop = "services">CREATIVE</h1>
+            </div>
+            <div class="parallax__container--2__pot"></div>
+            <div class="parallax__container--2__lamp"></div>
+            <div class="parallax__container--2__paper"></div>
+            <div class="parallax__container--2__glasses"></div>
+        </div>
+
+        <div class="parallax__container parallax__container--3" itemscope>
+            <div class="parallax__container__paragraph parallax__container__paragraph--3">
+                <h1 class="heading--4">New era</h1>
+                <h1 class="heading--4 margin--bottom--2" itemprop = "technology">of IoT.</h1>
+                <p class="paragraph--4">We deliver unique and robust solution for data and information, that is stored in the secured encrypted area; wile the data is collected by our newest integrated system.</p>
+                <a href="iot.html" class="parallax__container--1__button">Improved method</a>
+            </div>
+            <div class="parallax__container__backparagraph parallax__container__backparagraph--3">
+                <h1 class="heading--1" itemprop = "services">INNOVATIVE</h1>
+                <h1 class="heading--1" itemprop = "services">RESPONSIVE</h1>
+                <h1 class="heading--1" itemprop = "services">VERSATILE</h1>
+            </div>
+            <div class="parallax__container--3__ball"></div>
+            <div class="parallax__container--3__usb"></div>
+            <div class="parallax__container--3__rfid"></div>
+        </div>
+
+    </div>
+    <script src="js/myparallax.js"></script>
+    <div class="floating">
+        <a href="https://www.facebook.com/adhyaytechnology" target="_blank" class="about__team--link">
+            <svg class="about__team--icon about__team--icon--facebook">
+                <use href="images/socialSprite.svg#icon-facebook"></use>
+            </svg>
+        </a>
+        <a href="https://www.linkedin.com/company/35888400/admin/" target="_blank" class="about__team--link">
+            <svg class="about__team--icon about__team--icon--linkedin">
+                <use href="images/socialSprite.svg#icon-linkedin"></use>
+            </svg>
+        </a>
+    </div>
+</body>
+</html>

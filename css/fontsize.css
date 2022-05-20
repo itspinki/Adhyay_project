@@ -1,0 +1,15 @@
+html{
+    font-size: 56.25% !important;
+    @media only screen and (max-width: 62.5em){
+        font-size: 56.25% !important;
+    }
+    @media only screen and (max-width: 48em){
+        font-size: 50% !important;
+    }
+    @media only screen and (max-width: 28.125em) {
+        font-size: 43.75% !important;
+    }
+    @media only screen and (min-width: 88em) {
+        font-size: 70% !important;
+    }
+}
