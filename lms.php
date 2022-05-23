@@ -131,8 +131,8 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h4>Learning Management System</h4>
-						<h2>School Resource Management System</h2>
+						<h2>Adhyay school Learning Management System</h2>
+						<h4>  Take Teaching learning to the next level<br>Anytime anywherelearning is simplified by Adhyay LMS!</h4>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
@@ -217,7 +217,7 @@
 	<!--End Cta-->
 	
 	<!--About-->
-	<section class="about-app section">
+	<!-- <section class="about-app section">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
@@ -225,8 +225,9 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
+									<h2>"Enhance your Teaching and learning Experience" <span class="highlighted"> with Adhyay LMS”</span></h2>
+									<p>With Adhyay LMS, you can streamline all your learning processes within a single platform. The system enables a teacher to create and deliver content, monitor student participation, and track student performance. It is a completely hassle-free and paperless solution for remote learning.
+                                    </p>
 								</div>
 								<div id="counter" class="statistics-section">
 									<div class="row">
@@ -270,11 +271,15 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--End about-->
 	
-	
-	
+	<!-- middle heading -->
+	<div class="section-title changes">
+	<h2>Why is Adhyay LMS   <span class="highlighted">important?</span> for your institution</h2>
+	<p>Adhyay LMS provide an effective and well-implemented learning management system, some of the reasons are -</p>
+	</div>
+
 	<section id="box1" class="lms-section section" >
 		<div class="container">
 			<div class="row">
@@ -286,18 +291,43 @@
 				
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
+						<!-- <div class="section-title"> -->
+							<!-- <h2>Why is Adhyay LMS   <span class="highlighted">important?</span> for your institution</h2> -->
+							<!-- <p>Adhyay LMS provide an effective and well-implemented learning management system, some of the reasons are -</p> -->
+						<!-- </div> -->
+						<!-- <div class= "features-list">
+								<ul>
+									<li>
+										<h4>Content customization in just a few clicks</h4>
+										<p>Adhyay  LMS allows administration to customise the learning content according to their preferences.</p>
+									</li>
+									<li>
+										<h4>Consistency in content delivery</h4>
+                                       <p>The system helps faculty to upload and schedule content whenever they want. The feature allows teachers to set reminders and particular timing for consistently posting content.</p>
+									</li>
+									<li>
+										<h4>Improved teacher-student collaboration</h4>
+                                   <p>Without putting any effort, students can post their query at any time in just a few steps and faculty can view . Adhyay LMS improves the student-teacher collaboration</p>
+									</li>
+									<li>
+										<h4>Easily accessible</h4>
+                                   <p>Adhyay Learning management system provides all data at the same place in an organised way. Students and teachers can access classes, schedules, learning material, archives and tests in just one click.</p>
+									</li>
+								</ul>
+						</div> -->
 						<div class="section-title">
-							<h2>Complete analytics report  <span class="highlighted">FOR ADMIN</span></h2>
-							<p>LMS consists of amazing features such as analysis of the entire school/institute data in one click. Admin can review all the activities on our LMS system by clicking on the data links and easily acces the complete management flow. </p>
-						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+									<h2>"Content customization" <span class="highlighted"> in just a few clicks”</span></h2>
+                               <p>Adhyay  LMS allows administration to customise the learning content according to their preferences.</p>
+								</div>
+
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	
-	<section id="box2" class="lms-section section bg-light">
+	<!-- <section id="box2" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-2">
@@ -317,12 +347,12 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	
 	<section id="box3" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
@@ -331,10 +361,40 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Clear analytics report  <span class="highlighted">FOR MEMBERS</span></h2>
-							<p>Includes data of all affiliates of schools, including: teacher, stuff, student, parent, management.</p>
+							<h2> Consistency in <span class="highlighted">content delivery</span></h2>
+                   <p>The system helps faculty to upload and schedule content whenever they want. The feature allows teachers to set reminders and particular timing for consistently posting content.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <div class= "features-list">
+								<ul>
+									<li>
+										<h4>Multiple tasks from a single platform</h4>
+										<p>Adhyay LMS makes it easier for everyone to access all the information from a single dashboard. It helps to manage multiple tasks by putting in less efforts.</p>
+									</li>
+									<li>
+										<h4>Simplify the process of learning</h4>
+                                <p>The system simplifies the overall process of the learning. With a range of features like recording, tracking and documentation LMS enhances teaching experience with putting in any efforts.</p>
+									</li>
+									<li>
+										<h4>Generate report</h4>
+                                <p>Adhyay  LMS reduces the time of manually writing reports through an automated report generation tool. It becomes easier for the administration to evaluate and analyse the student learning process at any time.</p>
+									</li>
+									<li>
+										<h4>Reduce time-complexity</h4>
+                                   <p>Instead of sitting in a long class, students can anytime, anywhere can click the desired topic and chapter. It saves the time of administration and the teacher to easily figure out the area of required changes in just a few clicks.</p>
+									</li>
+									<li>
+										<h4>Unlimited access to learning materials</h4>
+                                  <p>When all the e-learning content is uploaded to the LMS, the student can easily access all the information. Teachers can conveniently log in to their LMS account and access the whole module from their mobile phone, tablets or some other laptop.</p>
+									</li>
+									<li>
+										<h4>Anytime, anywhere learning</h4>
+                                  <p>Adhyay learning management system eases or simplifies the process of learning. It allows the new students and teachers to figure out everything very quickly and effortlessly.</p>
+									</li>
+								</ul>
+						</div> -->
+
+
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -344,7 +404,7 @@
 	<section id="box4" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
@@ -353,10 +413,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>One click communication <span class="highlighted">WITH PARENTS</span></h2>
-							<p>Send emergency holiday SMS to parents, also SMS notifications regarding attendance, marks,pay fees, social events, homework and so on.</p>
+							<h2>Improved <span class="highlighted">teacher-student collaboration</span></h2>
+                       <p>Without putting any effort, students can post their query at any time in just a few steps and faculty can view . Adhyay LMS improves the student-teacher collaboration</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -366,7 +426,7 @@
 	<section id="box5" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
@@ -375,17 +435,23 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online  <span class="highlighted">TEST MANAGEMENT</span></h2>
-							<p>Students can easily attend the online exam, test series & mock test from their devices.<br /> Once the examination is scheduled, students will receive an instant notification and at the scheduled time students can appear for the test from their  devices.</p>
+							<h2>Easily <span class="highlighted">accessible</span></h2>
+             <p>Adhyay Learning management system provides all data at the same place in an organised way. Students and teachers can access classes, schedules, learning material, archives and tests in just one click.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	
-	
+	<!-- other middle-point -->
+	<div class="section-title changes">
+	<h2>Benefits Of <span class="highlighted">Learning Management System</span></h2>
+       <p>Below are some of the benefits which explain why you should have an Adhyay Learning management system-</p>
+         </div>
+
+
 	<section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
@@ -398,10 +464,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online <span class="highlighted">HOMEWORK MANAGEMENT</span></h2>
-							<p>Create the homework and distribute it to the whole class or a group of particular students.<br /> Students can submit answers and also view pending and submitted homework, submission details.<br />  In this platform we can also assign the homework through the pdf , docx, image, video and youtube link. In our software you can work easily and with little time.</p>
+							<h2>Multiple tasks from a <span class="highlighted">single platform</span></h2>
+             <p>Adhyay LMS makes it easier for everyone to access all the information from a single dashboard. It helps to manage multiple tasks by putting in less efforts.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -420,15 +486,106 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online <span class="highlighted">CLASS MANAGEMENT</span></h2>
-							<p> Create online classes, see the session list. When students enter the class attendance will be automatically submitted in the session list in teacher login.<br /> This is the single platform for which we easily start an online session.</p>
+							<h2>Simplify the <span class="highlighted">process of learning</span></h2>
+         <p>The system simplifies the overall process of the learning. With a range of features like recording, tracking and documentation LMS enhances teaching experience with putting in any efforts.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+
+	<section id="box6" class="lms-section section bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-2">
+					<div class="lms-figure">
+						<img src="images/img4.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Generate <span class="highlighted"> report</span></h2>
+             <p>Adhyay  LMS reduces the time of manually writing reports through an automated report generation tool. It becomes easier for the administration to evaluate and analyse the student learning process at any time.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section id="box6" class="lms-section section bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
+					<div class="lms-figure">
+						<img src="images/img4.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Reduce <span class="highlighted">time-complexity</span></h2>
+           <p>Instead of sitting in a long class, students can anytime, anywhere can click the desired topic and chapter. It saves the time of administration and the teacher to easily figure out the area of required changes in just a few clicks.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="box6" class="lms-section section bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-2">
+					<div class="lms-figure">
+						<img src="images/img4.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Unlimited access to <span class="highlighted">learning materials</span></h2>
+           <p>When all the e-learning content is uploaded to the LMS, the student can easily access all the information. Teachers can conveniently log in to their LMS account and access the whole module from their mobile phone, tablets or some other laptop.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="box4" class="lms-section section bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
+					<div class="lms-figure">
+						<img src="images/img4.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Anytime, anywhere <span class="highlighted"> learning</span></h2>
+       <p>Adhyay learning management system eases or simplifies the process of learning. It allows the new students and teachers to figure out everything very quickly and effortlessly.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
 	
 	<!--Price list-->
 	

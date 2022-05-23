@@ -131,8 +131,14 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h4>Easy To Use </h4>
-						<h2>Our Video Conferencing<br /> App</h2>
+						<h2>Adhyay YU Video conferencing Software</h2>
+						<h4>Our fully featured video conferencing software 
+                                      enables you to collaborate with your team in real-time 
+                                      using video, audio, digi board, live group and private chat 
+                                      and screen sharing. Adhyay YU  is the best video conferencing
+                                       platform with a user-friendly interface, interactive controls,
+                                       and mobile video conferencing support available at an affordable price.
+                                </h4>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
@@ -207,6 +213,12 @@
 	
 	
 	<!--About-->
+<!-- middle-point -->
+<div class="section-title changes">
+	<h2>Key features of <span class="highlighted">video meeting solution</span></h2>
+	</div>
+
+
 	<section class="about-app video-about-app section">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -215,10 +227,10 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
+									<h2>Online <span class="highlighted">video meetings</span></h2>
+                         <p>Communicate thoughts and articulate ideas better through online video conferencing. Use your desktop camera or an external camera for video meetings and build consensus through face-to-face collaboration, leaving no space for confusion or ambiguity.</p>
 								</div>
-								<div id="counter" class="statistics-section">
+								<!-- <div id="counter" class="statistics-section">
 									<div class="row">
 										<div class="col-md-4 stastic-col">
 											<div class="stastic">
@@ -239,6 +251,30 @@
 											</div>
 										</div>
 									</div>
+								</div> -->
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Single <span class="highlighted">video feeds</span></h2>
+                <p>View everyone in your online video conferencing session simultaneously through multiple video feeds. With Adhyay YU, you can have up to 200 participants in one meeting.</p>
 								</div>
 							</div>
 							<div class="col-md-6 col-12">
@@ -252,6 +288,103 @@
 			</div>
 		</div>
 	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-2">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12  ">
+								<div class="section-title">
+									<h2>Secure  <span class="highlighted">video meeting software</span></h2>
+                  <p>Adhyay YU is a secure video conferencing platform that puts your privacy first. Adhyay YU will always request your permission before enabling your web camera and transmitting your video. </p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Screen sharing  <span class="highlighted"> and chat</span></h2>
+                           <p>Share your screen to add context to your presentation during video meetings. Share a document with all meeting participants or deliver a slide presentation if you want. You can easily use the chat feature to send messages or links to everyone in a meeting. You can also record your screen sharing sessions and use these recordings for future references.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-2">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 ">
+								<div class="section-title">
+									<h2>Cost-effective  <span class="highlighted">video conferencing software</span></h2>
+                  <p>Video conferencing online helps your organisation to cut down on expenses incurred due to travelling allow employees to work safely from home. Using Adhyay YU video conferencing app, users can directly initiate a mobile meeting with remote users in just an instant. With our affordable pricing and smooth video conference connectivity, Adhyay yu is one of the best video conferencing solutions for small businesses.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Web video  <span class="highlighted">conferencing</span></h2>
+                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<!--End about-->
 	
 	<!--Cta-->
@@ -267,6 +400,110 @@
 		</div>
 	</section>
 	<!--End Cta-->
+
+	<div class="section-title changes">
+	<h2>Choose Adhyay YU for all your <span class="highlighted">video conferencing needs</span></h2>
+	</div>
+
+	<!-- content starts -->
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Web video  <span class="highlighted">conferencing</span></h2>
+                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Virtual video  <span class="highlighted">meeting platform</span></h2>
+                       <p>Conduct interactive, face-to-face video meetings in real time using video, audio, and screen sharing.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Web video  <span class="highlighted">conferencing</span></h2>
+                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+
+	<section class="about-app video-about-app section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2>Audio  <span class="highlighted">conferencing</span></h2>
+                          <p>Collaborate with your peers through audio-only remote meetings and enable your video feed when required.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- content ends -->
 	
 	<section class="features section">
 		<div class="container">

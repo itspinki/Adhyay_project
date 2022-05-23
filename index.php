@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adhyay - LMS + Online Classes</title>
+    <title>Adhyay - LMS</title>
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -131,9 +131,8 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Adhyay Learning management system and Online classes</h2>
-						<h4>Take Teaching learning to the next level <br>Conduct hassle-free assessments with Online Classes Software <br> 
-						Anytime, anywhere learning is simplified by Adhyay LMS! </h4>
+						<h4>Learning Management System</h4>
+						<h2>School Resource Management System</h2>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
@@ -176,10 +175,8 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System with online classes solution”</span></h2>
-                           <p>Now we are providing LMS with online classes  through our video conferencing.
-                              That is much easier with Adhyay yu. It uses high-resolution displays, white board,screen sharing and all facilities.
-                               </p>
+									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
+									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
 								</div>
 								<div class="video-enter">
 									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
@@ -220,12 +217,6 @@
 	<!--End Cta-->
 	
 	<!--About-->
-<!-- middle section -->
-<div class="section-title changes">
-	<h2>Why choose <span class="highlighted">Adhyay LMS with Online classes ?</span> </h2>
-	</div>
-
-
 	<section class="about-app section">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -234,10 +225,10 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2><span class="highlighted">Customization</span></h2>
-                         <p>Keep your students aware with Adhyay LMS with Online classes solution. The system is designed as per the user requirement so that it can easily be personalised.</p>
+									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
+									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
 								</div>
-								<!-- <div id="counter" class="statistics-section">
+								<div id="counter" class="statistics-section">
 									<div class="row">
 										<div class="col-md-4 stastic-col">
 											<div class="stastic">
@@ -258,7 +249,7 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div>
 							</div>
 							<div class="col-md-6 col-12">
 								<div class="video-pen">
@@ -280,7 +271,6 @@
 			</div>
 		</div>
 	</section>
-
 	<!--End about-->
 	
 	
@@ -297,12 +287,10 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2> The <span class="highlighted">Project Support</span></h2>
-                <p>With our expertise and experience we always assist our clients from starting point to closure, and after that too. We are always here to assist you during the overall process.</p>
+							<h2>Complete analytics report  <span class="highlighted">FOR ADMIN</span></h2>
+							<p>LMS consists of amazing features such as analysis of the entire school/institute data in one click. Admin can review all the activities on our LMS system by clicking on the data links and easily acces the complete management flow. </p>
 						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-
-
+						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
 					</div>
 				</div>
 			</div>
@@ -321,10 +309,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>In the <span class="highlighted">Training</span></h2>
-                 <p>We provide training for our users to easily get hands on our product. With any prior knowledge you can quickly understand them with our assistance.</p>
+							<h2>Automated attendance   <span class="highlighted">FOR STAFF AND STUDENTS</span></h2>
+							<p>It is time to move forward with an automated attendance system with Adhyay and leave ancient paper work to rest.</p>
 						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
 					</div>
 				</div>
 			</div>
@@ -343,23 +331,16 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>In <span class="highlighted">Extras</span></h2>
-                 <p>If you require any assistance throughout the overall process, we also carry out more modification or provide technical support through email and phone.</p>
+							<h2>Clear analytics report  <span class="highlighted">FOR MEMBERS</span></h2>
+							<p>Includes data of all affiliates of schools, including: teacher, stuff, student, parent, management.</p>
 						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	
-<!-- other middle-point -->
-<div class="section-title changes">
-	<h2> Benefits Of <span class="highlighted">LMS with online classes</span> </h2>
-	<p>Some of the key benefits of having LMS with online classes in yourschool are as follow</p>
-	</div>
-
-
 	<section id="box4" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
@@ -372,10 +353,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Create <span class="highlighted"> informative content</span></h2>
-                  <p>LMS with online classes is a process of sharing informative and relevant content ,we give white boards and many more things. The content is designed to grab the attention of students and staff members quickly and effectively.</p>
+							<h2>One click communication <span class="highlighted">WITH PARENTS</span></h2>
+							<p>Send emergency holiday SMS to parents, also SMS notifications regarding attendance, marks,pay fees, social events, homework and so on.</p>
 						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
 					</div>
 				</div>
 			</div>
@@ -394,10 +375,10 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2> Make change in content <span class="highlighted"> anytime, anywhere</span></h2>
-        <p>There is no need to take time out of your schedule. No matter if you are in or out, you can change the content of a digital board at any time or from any corner with just a tap.</p>
+							<h2>Online  <span class="highlighted">TEST MANAGEMENT</span></h2>
+							<p>Students can easily attend the online exam, test series & mock test from their devices.<br /> Once the examination is scheduled, students will receive an instant notification and at the scheduled time students can appear for the test from their  devices.</p>
 						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
 					</div>
 				</div>
 			</div>
@@ -405,7 +386,7 @@
 	</section>
 	
 	
-	<!-- <section id="box6" class="lms-section section bg-light">
+	<section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-2">
@@ -447,7 +428,7 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
+	</section>
 	
 	<!--Price list-->
 	

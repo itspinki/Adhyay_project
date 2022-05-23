@@ -10254,20 +10254,20 @@ h2 {
 	opacity:0;
 }
 .hero-text h4{
-	color: #fcbb1e;
-    font-size: 22px;
-    font-weight: 500;
+	color: #fff;
+    font-size: 20px;
+    font-weight: 200;
     margin: 0 0 20px 0;
 	transition-delay:0s;
 }
 .hero-text h2{
-	color: #fff;
-    font-size: 62px;
+	color: #fcbb1e;
+    font-size: 35px;
     font-weight: 800;
     letter-spacing: 1px;
 	margin:0 0 30px 0;
 	text-transform:uppercase;
-	line-height: 7.5rem;
+	line-height: 4rem;
 	transition-delay:.4s;
 }
 .hero-text .btn-custom{
@@ -12243,4 +12243,28 @@ xnugget info
 }
 .allFeatures li span:hover{
 	transform:translateY(-5px);
+}
+
+/*******************new style******************/
+/* .features-list ul{
+  list-style-type:none;
+  
+}
+.features-list ul li{
+  width: 60%;
+  margin: 10px 0;
+}
+.features-list ul li:nth-child(2n){
+ float: right;
+}
+.features-list ul li:nth-child(2n + 1){
+  float:left;
+} */
+
+.changes h2 {
+  margin-left: 250px;
+  margin-top: 80px;
+}
+.changes p{
+  margin-left: 250px ;
 }

@@ -116,7 +116,28 @@
 
 									</div>
 								</li> -->
-								<li class='c-navigation__list-item'><a href='#' title=''>Pricing</a></li>
+								                             <!-- pricing -->
+
+							<li class='c-navigation__list-item'>
+									<a href='#' title=''>Pricing</a>
+									<div class="mega-menu" style="background:#053e78 url(images/Learning_Management_System_1.png)no-repeat 95% center/211px">
+										<ul style="">
+											<li>
+												<a href="lms.php">
+													<strong>Video conferencing pricing</strong>
+												</a>
+											</li>
+											<li>
+												<a href="lms-and-online-classes.php">
+													<strong>ERP solution pricing</strong>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</li>
+
+<!-- pricing ends -->
+
 
 <!-- resorces -->
 <li class='c-navigation__list-item'>
