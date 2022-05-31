@@ -1,89 +1,89 @@
-	<header class='c-header'>
+	<header class='c-header header-active'>
 		<div class="container-fluid">
+			<div class="row justify-content-end">
+				<div class="col d-flex justify-content-end"></div>
+			</div>
 			<div class="row">
+				
 				<div class="col-lg-9 col-md-9 col-9">
 					<div class="brand-nav">
 						<a href="/" class="brand"><img src="images/logo.png" alt=""></a>
 						<nav class='c-navigation'>
 							<ul class='c-navigation__list'>
-								<li class='c-navigation__list-item c-navigation__list-item--active'><a href='#' title=''>Home</a></li>
+								<li class='c-navigation__list-item c-navigation__list-item--active'><a href='index.html' title=''>Home</a></li>
 								<li class='c-navigation__list-item'>
 									<a href='#' title=''>Solutions</a>
-									<div class="mega-menu" style="background:#053e78 url(images/megamenu.png)no-repeat 24% center/113px">
+									<div class="mega-menu">
 										
 										<!-- video conferences -->
-									
-												
-													
-										<ul>
-											<li ><a href=""><strong>Video Conference</strong></a></li>
-											<li><a href="">Conferences</a></li>
-											<li><a href="">Webinar</a></li>
-											<li><a href="">FAQ</a></li>
-											<li><a href=""><strong>Api Integration</strong></a></li>
+										<div class="nav-widget">	
+											<h3>Video<br /> Conference</h3>
+											<ul>
+												<li><a href="video-conferencing.php">Audio/Video calls</a></li>
+												<li><a href="webinar.php">Webinar</a></li>
+												<li><a href="api-integrations.php"><strong>Api Integration</strong></a></li>
+												<li><a href="faq.php">FAQ</a></li>
 
-										</ul>
-												
-											
+											</ul>
+										</div>	
 										<!-- conference link ends -->
-									
-										
-							
-									<ul style="">
-											<li>
-											<a href="">
-													<strong>ERP Solutions</strong>
-</a>
+										<div class="nav-widget">
+											<h3>School Resource Management system</h3>
+											<ul style="">
+												<li>
+													<a href="lms.php">
+														<strong>Lms</strong>
+														<span>Adhyay is most powerful software development services company.</span>
+													</a>
+												</li>
+												<li>
+													<a href="lms-and-online-classes.php">
+														<strong>Lms+ online classes</strong>
+														<span>Adhyay is most powerful software development services company.</span>
+													</a>
+												</li>
+												<li>
+													<a href="erp.php">
+														<strong>Erp</strong>
+														<span>Adhyay is most powerful software development services company.</span>
+													</a>
+												</li>
+											</ul>
+										</div>
+										<div class="nav-widget">
+											<h3></h3>
+											<ul style="">
+												<li>
+													<a href="erp-and-lms.php">
+														<strong>Erp+lms</strong>
+														<span>Adhyay is most powerful software development services company.</span>
+													</a>
+												</li>
+												<li>
+													<a href="erp-lms-online-classes.php">
+														<strong>Erp + lms + online classes</strong>
+														<span>Adhyay is most powerful software development services company.</span>
+													</a>
+												</li>
+												<li>
+													<a href="contact-sales.php">
+														<strong>Contact sales</strong>
+														<!-- <span>Adhyay is most powerful software development services company.</span> -->
+													</a>
+												</li>
+												<li>
+													<a href="faq1.php">
+														<strong>FAQ</strong>
+													</a>
+												</li>
 
-
-												<a href="lms.php">
-													
-													<strong>Lms</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-											<li>
-												<a href="lms-and-online-classes.php">
-													<strong>Lms+ online classes</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-											<li>
-												<a href="erp.php">
-													<strong>Erp</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-										</ul>
-										<ul style="">
-											<li>
-												<a href="erp-and-lms.php">
-													<strong>Erp+lms</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-											<li>
-												<a href="erp-lms-online-classes.php">
-													<strong>Erp + lms + online classes</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-											<li>
-												<a href="contact-sales.php">
-													<strong>Contact sales</strong>
-													<span>Adhyay is most powerful software development services company.</span>
-												</a>
-											</li>
-										</ul>
+											</ul>
+										</div>
 									</div>
 								</li>
 
-
-								
-
-								
-								<li class='c-navigation__list-item'><a href='#' title=''>Features</a>
-									<!-- <div class="mega-menu" style="background:#053e78 url(images/Learning_Management_System_1.png)no-repeat 95% center/250px">
+								<li class='c-navigation__list-item'><a href='features.php' title=''>Features</a>
+									<!-- <div class="mega-menu">
 										<ul style=""> -->
 											<!-- <li>
 												<a href="#">
@@ -116,24 +116,24 @@
 
 									</div>
 								</li> -->
-								                             <!-- pricing -->
+								 <!-- pricing -->
 
 							<li class='c-navigation__list-item'>
 									<a href='#' title=''>Pricing</a>
-									<div class="mega-menu" style="background:#053e78 url(images/Learning_Management_System_1.png)no-repeat 95% center/211px">
+									<div class="mega-menu">
 										<ul style="">
 											<li>
-												<a href="lms.php">
+												<a href="plans.php">
 													<strong>Video conferencing pricing</strong>
 												</a>
 											</li>
 											<li>
-												<a href="lms-and-online-classes.php">
+												<a href="erp-pricing.php">
 													<strong>ERP solution pricing</strong>
 												</a>
 											</li>
 										</ul>
-									</div>
+									</div> 
 								</li>
 
 <!-- pricing ends -->
@@ -142,7 +142,7 @@
 <!-- resorces -->
 <li class='c-navigation__list-item'>
 									<a href='#' title=''>Resources</a>
-									<div class="mega-menu" style="background:#053e78 url(images/Learning_Management_System_1.png)no-repeat 95% center/211px">
+									<div class="mega-menu">
 										<ul style="">
 											<li>
 												<a href="lms.php">
@@ -167,18 +167,20 @@
 
 
 
-								<li class='c-navigation__list-item'><a href='#' title=''>about us</a></li>
+								<li class='c-navigation__list-item'><a href='' title=''>about us</a></li>
 
 								<!-- <li class='c-navigation__list-item'><a href='#' title=''>Srms</a></li> -->
-								<li class='c-navigation__list-item'><a href='#' title=''>contact us</a></li>
+								<li class='c-navigation__list-item'><a href='contact-us.php' title=''>contact us</a></li>
 							</ul>
 						</nav>
 					</div>
 				</div>
 				
 				<div class="col-lg-3 col-md-3 col-3 d-flex align-items-center justify-content-end">
+				
 					<div class='c-cta'> 
-						<a href='javascript:void();' title='' class="link-custom cd-popup-trigger"> Sign up/sign</a>
+					<a href='javascript:void();' title='' class="btn-custom"> Join a meeting</a>
+						<a href='javascript:void();' title='' class="link-custom cd-popup-trigger"> sign in</a>
 						<a href='#' title='' class="cart-custom">
 							<span class="cartVal">10</span>
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-basket" viewBox="0 0 16 16">
@@ -189,6 +191,7 @@
 						
 						<!--<button class='c-cta__button c-cta__button__menu'></button>-->
 					</div>
+					
 				</div>
 			</div>
 			

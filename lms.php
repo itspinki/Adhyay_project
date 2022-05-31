@@ -275,13 +275,14 @@
 	<!--End about-->
 	
 	<!-- middle heading -->
-	<div class="section-title changes">
-	<h2>Why is Adhyay LMS   <span class="highlighted">important?</span> for your institution</h2>
-	<p>Adhyay LMS provide an effective and well-implemented learning management system, some of the reasons are -</p>
-	</div>
 
-	<section id="box1" class="lms-section section" >
+
+	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
+			<div class="section-title text-center">
+				<h2>Why is Adhyay LMS   <span class="highlighted">important?</span> for your institution</h2>
+				<p>Adhyay LMS provide an effective and well-implemented learning management system, some of the reasons are -</p>
+			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
@@ -445,15 +446,43 @@
 		</div>
 	</section>
 	
+	<section id="box5" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 ">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 ">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Online <span class="highlighted">Assessment</span></h2>
+                     <p>It provides comprehensive examination experience to students and teachers. Adhyay helps in conducting an interesting and interactive examination like a real-class environment.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
 	<!-- other middle-point -->
-	<div class="section-title changes">
+	<!-- <div class="section-title changes">
+	<h2>Benefits Of <span class="highlighted">Learning Management System</span></h2>
+       <p>Below are some of the benefits which explain why you should have an Adhyay Learning management system-</p>
+         </div> -->
+
+
+	<section id="box6" class="lms-section section lms-custom-class">
+		<div class="container">
+		<div class="section-title text-center">
 	<h2>Benefits Of <span class="highlighted">Learning Management System</span></h2>
        <p>Below are some of the benefits which explain why you should have an Adhyay Learning management system-</p>
          </div>
 
-
-	<section id="box6" class="lms-section section bg-light">
-		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-2">
 					<div class="lms-figure">

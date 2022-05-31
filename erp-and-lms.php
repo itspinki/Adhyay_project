@@ -131,8 +131,8 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h4>Learning Management System</h4>
-						<h2>School Resource Management System</h2>
+						<h2>Best School Resources Management System And Adhyay Learning management system</h2>
+						<h4>Manage all your school operations Without any stress <br>The easiest way to keep in touch with your School at any time,<br> anywhere with Adhyay</h4>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
@@ -175,8 +175,8 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
+									<h2> <span class="highlighted">School management and learning management Software</span></h2>
+                           <p>  Save your time and efforts with Adhyay school management software. It lets administration, parents, teachers and students connect with their school at any time, anywhere. The smart software streamlines all the administrative and faculty tasks to ease administrative hassle, enhance productivity and manage teaching-learning activities.Adhyay ERP and LMS  is a one-stop solution that acts as a bridge between teacher and parents.</p>
 								</div>
 								<div class="video-enter">
 									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
@@ -217,66 +217,17 @@
 	<!--End Cta-->
 	
 	<!--About-->
-	<section class="about-app section">
+
+	
+	
+	
+	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
-								</div>
-								<div id="counter" class="statistics-section">
-									<div class="row">
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">10</span> <span>K</span></h4>
-												<p>App Downloads</p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">4</span> <span>+</span></h4>
-												<p>Average Review </p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter percent">1</span> <span>M</span></h4>
-												<p>Active Users</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									<img src="images/video_layer01.jpg" alt="" class="video_layer video_layer_1">
-									<img src="images/video_layer02.jpg" alt="" class="video_layer video_layer_2">
-									<img src="images/video_layer03.jpg" alt="" class="video_layer video_layer_3">
-									
-									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
-										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-										  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-										</svg>
-									</div>
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--End about-->
-	
-	
-	
-	<section id="box1" class="lms-section section" >
-		<div class="container">
+		<div class="section-title text-center ">
+	<h2>Why Adhyay ERP and Lms is beneficial <span class="highlighted"> for <br>your school ?</span> </h2>
+	<p>Everything you will ever need to manage your school</p>
+	</div>
+
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
@@ -287,10 +238,10 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Complete management system   <span class="highlighted">FOR SCHOOL</span></h2>
-							<p>LMS consists of amazing features such as analysis of the entire school/institute data in one click. Admin can review all the activities on our LMS system by clicking on the data links and easily acces the complete management flow. </p>
+							<h2>Increased <span class="highlighted">Efficiency</span></h2>
+                 <p>School erp and lms is everything that your school is ever want. It helps students, teachers, and administration to get things done faster, without any hassle of managing paperwork.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -309,10 +260,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Automated attendance   <span class="highlighted">FOR STAFF AND STUDENTS</span></h2>
-							<p>It is time to move forward with an automated attendance system with Adhyay and leave ancient paper work to rest.</p>
+							<h2> Reducing the  <span class="highlighted"> gap</span></h2>
+                     <p>All communities and staff can easily be connected with the school software. It reduces the gap between administration and staff to help them in communicating with each other at any time.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -331,10 +282,10 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Clear analytics report  <span class="highlighted">FOR MEMBERS</span></h2>
-							<p>Includes data of all affiliates of schools, including: teacher, stuff, student, parent, management.</p>
+							<h2>Highly <span class="highlighted">secure</span></h2>
+                     <p>It has no room for any unauthorised and malicious accessibility. It is a completely reliable and safe platform for everyone to manage their day-to-day activities without any stress.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -353,18 +304,25 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>One click communication <span class="highlighted">WITH PARENTS</span></h2>
-							<p>Send emergency holiday SMS to parents, also SMS notifications regarding attendance, marks,pay fees, social events, homework and so on.</p>
+							<h2><span class="highlighted">Multilingual</span></h2>
+                     <p>With the Adhyay school management software, everything can be accessed in your preferred language. The app supports multiple languages to make it understandable for every user.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	
-	<section id="box5" class="lms-section section">
+	<!-- next point -->
+
+	<section id="box5" class="lms-section section lms-custom-class">
 		<div class="container">
+		<div class="section-title text-center">
+	<h2> Benefits Of <span class="highlighted">School ERP and LMS</span> </h2>
+<p>Some of the key benefits of School ERP and LMSare as follow</p>
+</div>
+
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
@@ -375,10 +333,10 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online  <span class="highlighted">TEST MANAGEMENT</span></h2>
-							<p>Students can easily attend the online exam, test series & mock test from their devices.<br /> Once the examination is scheduled, students will receive an instant notification and at the scheduled time students can appear for the test from their  devices.</p>
+							<h2> Simple & <span class="highlighted">Easy to use</span></h2>
+                      <p>Adhyay School ERP and LMS is the best solution for managing the school. With the range of features, it easily and simply manages all the operations of the school.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -398,10 +356,10 @@
 				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online <span class="highlighted">HOMEWORK MANAGEMENT</span></h2>
-							<p>Create the homework and distribute it to the whole class or a group of particular students.<br /> Students can submit answers and also view pending and submitted homework, submission details.<br />  In this platform we can also assign the homework through the pdf , docx, image, video and youtube link. In our software you can work easily and with little time.</p>
+							<h2>Instant <span class="highlighted">notification</span></h2>
+                   <p>This is simply the best feature of the school software. Administration, staff, students and parents can receive notification and important alerts instantly on their phone to be up-to-date with day-to-day school activities.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
@@ -420,16 +378,128 @@
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
-							<h2>Online <span class="highlighted">CLASS MANAGEMENT</span></h2>
-							<p> Create online classes, see the session list. When students enter the class attendance will be automatically submitted in the session list in teacher login.<br /> This is the single platform for which we easily start an online session.</p>
+							<h2>All-in-one <span class="highlighted">solution</span></h2>
+                   <p>To reduce time and efforts, it enables administration, faculty, teacher and students to manage school related tasks through the software in just a few clicks.</p>
 						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	
+	<section id="box7" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-2">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Effective student-teachers <span class="highlighted">interaction</span></h2>
+                  <p>With Adhyay school software any information that has to be passed can quickly be sent through a single text. It allows students and teachers to submit their query at any time.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="box7" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Marking attendance in <span class="highlighted">single click</span></h2>
+                  <p>Taking attendance and registering it in files is a complicated process, the software allows administration and faculty to easily mark the attendance in just a click.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="box7" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-2">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Multiple account <span class="highlighted">access</span></h2>
+                   <p>Besides the parents, even the teachers and administrators have their login access to take attendance, view timetables, send messages, receive important notices and many more.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- client review -->
+
+<section class="section-testimonials" >
+		<div class="">
+		<div class="slider">
+			<div class="slider__slides">
+				<div class="slider__slide slider__slide--1">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text"> 
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">Tanya Sinclair </span>
+								<span class="testimonial__cite--role">Vice Chancellor</span>
+							</cite> 
+						</blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
+					</figure>
+				</div>
+				<div class="slider__slide slider__slide--2">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text">
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">John Tarkpor </span>
+								<span class="testimonial__cite--role">Principal of Junior School</span>
+							</cite> </blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
+					</figure>
+				</div>
+			</div>
+			<div class="slider__buttons">
+				<div class="slider__button slider__button--prev">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
+					</svg>
+				</div>
+				<div class="slider__button slider__button--next">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
+						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+
+
 	<!--Price list-->
 	
 	

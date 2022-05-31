@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adhyay - ERP + LMS + Online Classes</title>
+    <title>Adhyay - Our Plans</title>
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,7 +29,7 @@
   gtag('config', 'UA-180966897-1');
 </script>
 </head>
-<body>
+<body class="plan-page ">
 	<div id="video-popup-overlay"></div>
     <div class="preloader">
         <div class="loader">
@@ -125,27 +125,28 @@
 	
 	<!-- New structure-->
 	
-	<section class="hero-section" >
+	<section class="hero-section d-none " >
 	
 		<div class="container-fluid">
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Save more time and efforts with Adhyay ERP, LMS and Online classes</h2>
-						<h4>Everything to make your school run Smoothly and effortlessly.</h4>
+						<h4>Easy To Use </h4>
+						<h2>Our Video Conferencing<br /> App</h2>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
 					<div class="hero-layers" id="hero-layers">
-						<img src="images/hero-layers/layer-main.png" alt="" class="hero__layer hero__layer_1" id="h__layer_1">
+						<!--<img src="images/hero-layers/layer-main.png" alt="" class="hero__layer hero__layer_1" id="h__layer_1">
 						<img src="images/hero-layers/pencils.png" alt="" class="hero__layer hero__layer_2" id="h__layer_2">
 						<img src="images/hero-layers/glasses3.png" alt="" class="hero__layer hero__layer_3" id="h__layer_3">
-						<img src="images/hero-layers/wood_pencil.png" alt="" class="hero__layer hero__layer_4" id="h__layer_4">
-						<!--<img src="images/hero-layers/layer04.png" alt="" class="hero__layer hero__layer_5" id="h__layer_5">-->
+						<img src="images/hero-layers/wood_pencil.png" alt="" class="hero__layer hero__layer_4" id="h__layer_4">-->
+						
 					</div>
 				</div>
 			</div>
+			<img src="images/hero-layers/video-conferencing-img01.png" alt="" class="hero__layer hero__layer_5" id="h__layer_5">
 			
 		</div>
 	
@@ -167,7 +168,8 @@
 		</div>
 	</section>
 	
-	<section class="about-app entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
+	
+	<!--<section class="about-app video-entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
@@ -175,8 +177,8 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2><span class="highlighted">Adhyay ERP, LMS and Online classes</span></h2>
-                       <p>Adhyay erp,lms and online classes is an all-in-one solution for your school. With the aim of eliminating the hassle of administration, the system simplifies lengthy processes like students admission management, staff management, student’s attendance, fee collection, online examination, online live classes, digital course sharing with students, expense management, SMS & Push Notification process and many more.</p>
+									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
+									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
 								</div>
 								<div class="video-enter">
 									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
@@ -200,7 +202,508 @@
 				</div>
 			</div>
 		</div>
+	</section>-->
+
+	<section class="ecommerce_packages_block margin-top-small">
+		<img class="shapeimg_001" src="images/shape02.png" alt="">
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>VIDEO CONFERENCING FEATURES  <br /><span class="highlighted">AND PRICING</span></h2>
+				
+				<div class="switch">
+					<label class="switch__wrapper">
+						<input type="checkbox" />
+						<span class="switch__slider"></span>
+						<div class="switch__type">
+							
+						</div>
+					</label>
+				</div>
+			</div>
+			<table id="ecommerce_pack" cellpadding="0" cellspacing="0" class="table_cell_next_2">
+				<thead>
+					<tr>
+						<th>&nbsp; <span> </span></th>
+						<th>
+							<div class="packtitle">Free
+							<br><small>Plan</small></div>
+						</th>
+						<th class="best-active">
+							<div class="packtitle">Standard Plan*
+								<br><small>(Per licence)</small></div>
+						</th>
+						<th>
+							<div class="packtitle">Platinum Plan*
+								<br><small>(Per 2 licences )</small></div>
+						</th>
+						<th>
+							<div class="packtitle">Enterprise plan*
+								<br><small>(Per 5 licences)</small></div>
+						</th>
+						<th>
+							<div class="packtitle">Personalised Plan with customisable  Features For Enterprise And Institutions 
+								<br><small>CONTACT- info@adhyay.co.in</small></div>
+						</th>
+					</tr>
+					<tr>
+						<th>&nbsp; <span></span></th>
+						<th>
+							<div class="packprice"></div>
+						</th>
+						<th class="best-active">
+							<div class="packprice"></div>
+						</th>
+						<th>
+							<div class="packprice"> </div>
+						</th>
+						<th>
+							<div class="packprice"></div>
+						</th>
+						<th>
+							<div class="packprice"></div>
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<!-- new -->
+					
+
+					<!-- old -->
+					<tr>
+						<td class="title_awesome">
+							<div class="subhead">Video Conference Features </div>
+						</td>
+						<td class="title_awesome">&nbsp;</td>
+						<td class="title_awesome">&nbsp;</td>
+						<td class="title_awesome">&nbsp;</td>
+						<td class="title_awesome">&nbsp;</td>
+						<td class="title_awesome">&nbsp;</td>
+					</tr>
+					<tr>
+						<td>Number of Participants</td>
+						<td><span>upto 100</span> </td>
+						<td><span>Unlimited 24 Hours Upto 100 users</span> </td>
+						<td><span>Unlimited Hours upto 200 Users</span> </td>
+						<td><span>Unlimited Hours Upto 500 Users</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Maximum meeting  &amp; length</td>
+						<td><span>60 Minutes</span> </td>
+						<td><span>Unlimited for 24 Hours</span> </td>
+						<td><span>Unlimited for 24 Hours</span> </td>
+						<td><span>Unlimited for 24 Hours</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Number of licenses</td>
+						<td><span>1</span> </td>
+						<td><span>1</span> </td>
+						<td><span>2</span> </td>
+						<td><span>5</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>HD Video calls</td>
+						<td><span class="cross">&#10006;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Desktop Storage</td>
+						<td><span class="fa fa-remove">upto 1GB desktop recording</span> </td>
+						<td><span class="fa fa-remove">upto 100GB desktop recording </span></td>
+						<td><span class="fa fa-remove">upto 1TB desktop recording </span></td>
+						<td><span class="fa fa-remove">upto 1TB desktop recording </span></td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Cloud MP4  Recording storage</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span class="fa fa-remove">upto 100GB desktop recording</span> </td>
+						<td><span class="fa fa-remove">upto 1TB desktop recording</span> </td>
+						<td><span class="fa fa-remove" >upto 1TB desktop recording</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Add an alternative host(co-host)</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span class="fa fa-remove">Add Upto 2 hosts</span> </td>
+						<td><span class="fa fa-remove">Add Upto 5 hosts</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Co host can let others start and manage your meetings</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Single person screen sharing</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Schedule meetings from your own customized Adhyay calenders, integrated in Google , Microsoft
+							and Zoho mail calendar
+						</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Interactive Digiboard (single person editable)</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span class="fa fa-remove">Host and co-hosts can edit the digi board</span> </td>
+						<td><span class="fa fa-remove">All users can edit the digi board at a time</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Breakout Rooms</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Call logs and history</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>Edit the call record according to your need</span> </td>
+						<td><span>Edit the call record according to your need</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Disable all participant's camera</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>Disable and Enable participant's camera</span> </td>
+						<td><span>Disable and Enable participant's camera</span> </td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td class="title_awesome" colspan="6" style="width:100%;padding:0">
+							<div class="subhead">Audio Conference features</div>
+						</td>
+					</tr>
+					<tr>
+						<td>HD Audio Quality</td>
+						<td><span class="cross">&#10006;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Mute all Participants</td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Voice recognition audio</td>
+						<td><span&#10003;></span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td><span>&#10003;</span></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Connect to all audio device inputs-Blutooth,headset,speaker,aux</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Connect to all audio device outputs-Blutooth,headset,speaker,aux</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Noise Reduction</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+
+					<!-- <tr>
+						<td>Noise</td>
+						<td><span class="fa fa-remove"></span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Set product discounts</td>
+						<td><span class="fa fa-remove"></span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Browser-based control panel</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Manage Products and set pricing</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Choose Products for Home Page</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Product List</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Sales report</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Set Shipping Charges (Upto Country Level)</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Customer List</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Communicate with Customer</td>
+						<td><span class="fa fa-remove"></span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Order Details, Set Order Status</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Change Home page Slider Images</td>
+						<td><span class="fa fa-remove"></span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr>
+					<tr>
+						<td>Change Account Password</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+					</tr> -->
+					<tr>
+						<td class="title_awesome" colspan="6" style="width:100%;padding:0">
+							<div class="subhead">Messaging features </div>
+						</td>
+					</tr>
+					<tr>
+						<td>Group messaging/private messages</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Share file attachments(pdf,doc,png)</td>
+						<td><span>Upto 20MB</span> </td>
+						<td><span>Upto 1GB</span> </td>
+						<td><span>Upto 30GB</span> </td>
+						<td><span>Upto 55GB</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Share your fav emojis</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Messaging and file sharing</td>
+						<td><span>Limited to 20MB file sharing, with no message history</span> </td>
+						<td><span>Limited to 1GB file sharing, with no message history</span> </td>
+						<td><span>Limited to 30GB file sharing, with no message history</span> </td>
+						<td><span>Limited to 55MB file sharing, with no message history</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Participant Availaibility status</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Secure Meeting messaging technology</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td class="title_awesome" colspan="6" style="width:100%;padding:0">
+							<div class="subhead">Security features </div>
+						</td>
+					</tr>
+					<tr>
+						<td>Password protected meeting links</td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Encrypted cloud meetings</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>End-to-End Encryption</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					<tr>
+						<td>Enforce meeting password when joining from any device</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Allow user before joining option</td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span class="cross">&#10006;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td><span>&#10003;</span> </td>
+						<td> </td>
+					</tr>
+					
+					<tr>
+						<td class="title_awesome" colspan="6" style="width:100%;padding:0">
+							<div class="subhead">Customer Support </div>
+						</td>
+					</tr>
+					<tr>
+						<!-- <td>Group messaging/private messages</td> -->
+						<td><span> </span> </td>
+						<td><span>No Customer service available with plan</span> </td>
+						<td><span>Customer sservice available during working hours</span> </td>
+						<td><span>Customer service available during working hours</span> </td>
+						<td><span>24/7 Customer service assistance</span> </td>
+						<td></td>
+
+					</tr>
+					<tr>
+						<!-- <td>Share file attachments(pdf,doc,png)</td> -->
+						<td><span class="cross"></span> </td>
+						<td><span>Raise a ticket for technical support</span> </td>
+						<td><span>Contact on customer care and raise a querry</span> </td>
+						<td><span>Contact on customer care and raise a querry</span> </td>
+						<td><span>Technical manager is assigned</span> </td>
+						<td> </td>
+
+					</tr>
+
+
+				</tbody>
+				<tfoot>
+					<tr>
+						<td></td>
+						<td>
+							<div class=""><a href="full-inquiry" class="btn-custom">Buy Now</a></div>
+						</td>
+						<td>
+							<div class=""><a href="full-inquiry" class="btn-custom">Buy Now</a></div>
+						</td>
+						<td>
+							<div class=""><a href="full-inquiry" class="btn-custom">Buy Now</a></div>
+						</td>
+						<td>
+							<div class=""><a href="full-inquiry" class="btn-custom">Buy Now</a></div>
+						</td>
+						<td>
+							<div class=""><a href="full-inquiry" class="btn-custom">Buy Now</a></div>
+						</td>
+					</tr>
+				</tfoot>
+			</table>
+		</div>
 	</section>
+	
 
 	<!--Cta-->
 	<section class="full-cta">
@@ -216,335 +719,10 @@
 	</section>
 	<!--End Cta-->
 	
-	<!--About-->
-	<!--End about-->
-	
-
-	<section id="box5" class="lms-section section lms-custom-class">
-		<div class="container">
-		<div class="section-title text-center">
-	<h2> Why Adhyay ERP, Lms and Online classes  <span class="highlighted">are beneficial for your school ?</span> </h2>
- <p>Here are some of the key points which make this school management system an effective one.</p>
-</div>
-
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>  <span class="highlighted">Attendance</span></h2>
-                     <p>Effectively manage daily attendance, generate summarised reports of students' leave and absence in the coaching.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	
-	<section id="box6" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2> <span class="highlighted">Admission</span></h2>
-                   <p>Simplify admission management solution for tracking application status, upload and download document, batch allotment and many more.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Student <span class="highlighted">Info</span></h2>
-                     <p>Track and manage all the student data such as grades, attendance and behavioural information at just a single click.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2><span class="highlighted">Assignment</span></h2>
-                     <p>Teachers can easily assign the assignments for more than one batch at the same time. It also helps teachers, students and parents to monitor and track overall learning activities.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2> <span class="highlighted"> Multilingual</span></h2>
-                 <p>With the Adhyay school management software, everything can be accessed in your preferred language. The app supports multiple languages to make it understandable for every user.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Hassle-free <span class="highlighted"> fee collection</span></h2>
-                     <p>Adhyay provides a robust student fee management solution for automating, simplifying and enhancing fee collection to drive efficiency and reduce costs.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	
-	<section id="box1" class="lms-section section" >
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img1.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Online <span class="highlighted">live Classes</span></h2>
-                  <p>Adhyay now integrates with its own video conferencing software , to simplify online learning and teaching process.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box2" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img2.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2> Exam & <span class="highlighted"> Gradebook</span></h2>
-                  <p>Automate exam process. Effortlessly conduct online examinations. Create a digital report card and automate grade calculation.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<!-- next-point -->
-
-
-	<section id="box3" class="lms-section section lms-custom-class">
-		<div class="container">
-		<div class="section-title text-center">
-	<h2> Some of the amazing benefits of the  <span class="highlighted">erp, lms and online classes</span> </h2>
-</div>
-
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Reducing the <span class="highlighted">workload of teachers</span></h2>
-                      <p>Any organisation functions better when the workload at every job is minimised. With a school management system, manual tasks related to regular paperwork gets reduced to just recording of data.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box4" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Better <span class="highlighted">student-teachers relations</span></h2>
-                  <p>Integrated School management systems improve the relationship between student and teacher. It allows teachers and students to interact with each other at any time, anywhere.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box5" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Student <span class="highlighted"> lifetime data</span></h2>
-                      <p>The system allows administrators to keep track of student data. It manages the actual data of the student's life from the enrollment process to the day the student leaves the school</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	
-	<section id="box6" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Security <span class="highlighted">of data</span></h2>
-                 <p>It is crucial for administrators to provide a system that stores data on a secure platform, and that's what school erp and lms software does. The system sets up a unique web-based server that tracks all activities and ensures the data is highly secured.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Multi login <span class="highlighted">accessibility</span></h2>
-                  <p>From administrator to each student and teacher, everyone can access the functionality of the software. Managing the entire school software was made quicker and easier with the Adhyay school management system.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box8" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Question bank  <span class="highlighted"> generation</span></h2>
-                 <p>Automated online examination system eliminates the pen-paper environment and as well as workload of the staff by creating the question bank according to the requirement.</p>
-						</div>
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	
 	<!--Price list-->
 	
 	
-	<section class="section price__list">
+	<!-- <section class="section price__list">
 		<div class="container">
 			<div class="section-title text-center">
 				<h2>What features are right <br />for you?</h2>
@@ -663,74 +841,10 @@
 				<button class="pricing-action">Choose plan</button>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--End price list-->
 	
-	<section class="section-testimonials" >
-		<div class="">
-		<div class="slider">
-			<div class="slider__slides">
-				<div class="slider__slide slider__slide--1">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text"> 
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">Tanya Sinclair </span>
-								<span class="testimonial__cite--role">Vice Chancellor</span>
-							</cite> 
-						</blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
-					</figure>
-				</div>
-				<div class="slider__slide slider__slide--2">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text">
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">John Tarkpor </span>
-								<span class="testimonial__cite--role">Principal of Junior School</span>
-							</cite> </blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
-					</figure>
-				</div>
-			</div>
-			<div class="slider__buttons">
-				<div class="slider__button slider__button--prev">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
-						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
-					</svg>
-				</div>
-				<div class="slider__button slider__button--next">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
-						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
-					</svg>
-				</div>
-			</div>
-		</div>
-		
-	</section>
 	
-	<section class="banner-footer">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-xl-8 col-lg-10 col-md-12 col-12">
-					<div class="banner-inner-content">
-						<h2>How Adhyay creates a new Chapter</h2>
-						<h3>The power of automation</h3>
-						<p>Dedicated features that act as a powerful tool for the faster completion of tasks. Smart new features like RFID attendance, online fee payment, and the most convinient communication with parents, are now on Adhyay.</p>
-						<div class="vpop" data-type="youtube" data-id="FpNPX2Dnjwc" data-autoplay='true'>
-							<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-							  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-							</svg>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-		</div>
-	</section>
 	
 	
 	

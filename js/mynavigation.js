@@ -7,6 +7,18 @@ document.getElementById('navigation__dot--out').addEventListener('click',functio
     document.querySelector('.dropleft').style.animation = "dropright .5s ease-in-out";
 });
 */
+
+/***************Accordian**********/
+const accordion = document.getElementsByClassName('container');
+for (i=0; i<accordion.length; i++) {
+  accordion[i].addEventListener('click', function () {
+	  //alert(accordion);
+    this.classList.toggle('active')
+  });
+}
+
+
+
 window.addEventListener('load', (event) => {
 	let preload = document.querySelector('body');
 	//alert (preload);
@@ -58,9 +70,9 @@ $(document).ready(function(){
 			$(".c-header").removeClass('header-active');
 			$("body").addClass('absActivePage');
 		}
-		
-		
 	});
+	
+
 	
 	var absSection = $(".about-app");
 	
@@ -326,3 +338,21 @@ function openTabs(el) {
    
    btnTarget.classList.add("active");
 }
+
+
+/*************Sliding toggle button***********/
+var toggle = document.getElementById('container');
+var toggleContainer = document.getElementById('toggle-container');
+var toggleNumber;
+
+toggle.addEventListener('click', function() {
+	toggleNumber = !toggleNumber;
+	if (toggleNumber) {
+		toggleContainer.style.clipPath = 'inset(0 0 0 50%)';
+		toggleContainer.style.backgroundColor = '#D74046';
+	} else {
+		toggleContainer.style.clipPath = 'inset(0 50% 0 0)';
+		toggleContainer.style.backgroundColor = 'dodgerblue';
+	}
+	console.log(toggleNumber)
+});

@@ -214,13 +214,14 @@
 	
 	<!--About-->
 <!-- middle-point -->
-<div class="section-title changes">
+
+
+	<section class="about-app video-about-app section lms-custom-class">
+		<div class="container">
+		<div class="section-title text-center">
 	<h2>Key features of <span class="highlighted">video meeting solution</span></h2>
 	</div>
 
-
-	<section class="about-app video-about-app section">
-		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
 					<div class="about-app-inner">
@@ -401,14 +402,15 @@
 	</section>
 	<!--End Cta-->
 
-	<div class="section-title changes">
-	<h2>Choose Adhyay YU for all your <span class="highlighted">video conferencing needs</span></h2>
-	</div>
 
 	<!-- content starts -->
 
-	<section class="about-app video-about-app section">
+	<section class="about-app video-about-app section lms-custom-class">
 		<div class="container">
+		<div class="section-title text-center">
+	<h2>Choose Adhyay YU for all your <span class="highlighted">video conferencing needs</span></h2>
+	</div>
+
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12 order-1">
 					<div class="about-app-inner">
@@ -434,10 +436,10 @@
 	<section class="about-app video-about-app section">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
+				<div class="col-lg-12 col-md-12 col-12 order-2">
 					<div class="about-app-inner">
 						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+							<div class="col-md-6 col-12  ">
 								<div class="section-title">
 									<h2>Virtual video  <span class="highlighted">meeting platform</span></h2>
                        <p>Conduct interactive, face-to-face video meetings in real time using video, audio, and screen sharing.</p>
@@ -502,6 +504,85 @@
 			</div>
 		</div>
 	</section>
+
+<!-- next heading -->
+
+	<section class="about-app video-about-app section lms-custom-class">
+		<div class="container">
+		<div class="section-title  text-center">
+	<h2> Collaborate with your team <span class="highlighted"> on-the-go!</span></h2>
+	</div>
+
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12 col-12 order-1">
+					<div class="about-app-inner">
+						<div class="row">
+							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
+								<div class="section-title">
+									<h2> Use Adhyay YU for iOS and Android and conduct <span class="highlighted">video conferences from your mobile phone.</span></h2>
+								</div>
+							</div>
+							<div class="col-md-6 col-12">
+								<div class="video-pen">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<section class="section-testimonials" >
+		<div class="">
+		<div class="slider">
+			<div class="slider__slides">
+				<div class="slider__slide slider__slide--1">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text"> 
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">Tanya Sinclair </span>
+								<span class="testimonial__cite--role">Vice Chancellor</span>
+							</cite> 
+						</blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
+					</figure>
+				</div>
+				<div class="slider__slide slider__slide--2">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text">
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">John Tarkpor </span>
+								<span class="testimonial__cite--role">Principal of Junior School</span>
+							</cite> </blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
+					</figure>
+				</div>
+			</div>
+			<div class="slider__buttons">
+				<div class="slider__button slider__button--prev">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
+					</svg>
+				</div>
+				<div class="slider__button slider__button--next">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
+						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+
+
 
 	<!-- content ends -->
 	
@@ -924,51 +1005,6 @@
 	</section>
 	<!--End price list-->
 	
-	<section class="section-testimonials" >
-		<div class="">
-		<div class="slider">
-			<div class="slider__slides">
-				<div class="slider__slide slider__slide--1">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text"> 
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">Tanya Sinclair </span>
-								<span class="testimonial__cite--role">Vice Chancellor</span>
-							</cite> 
-						</blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
-					</figure>
-				</div>
-				<div class="slider__slide slider__slide--2">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text">
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">John Tarkpor </span>
-								<span class="testimonial__cite--role">Principal of Junior School</span>
-							</cite> </blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
-					</figure>
-				</div>
-			</div>
-			<div class="slider__buttons">
-				<div class="slider__button slider__button--prev">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
-						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
-					</svg>
-				</div>
-				<div class="slider__button slider__button--next">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
-						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
-					</svg>
-				</div>
-			</div>
-		</div>
-		
-	</section>
 	
 	<section class="banner-footer">
 		<div class="container">

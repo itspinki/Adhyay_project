@@ -36,7 +36,7 @@
 				</div>
 				<div class="col-lg-2 col-md-6">
 					<div class="footer-navigation">
-						<h4 class="title">Quick links</h4>
+						<h4 class="title">Sitemap </h4>
 						<ul>
 							<li><a href="#">HOME</a></li>
 							<li><a href="#">SRMS</a></li>

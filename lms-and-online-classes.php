@@ -221,13 +221,14 @@
 	
 	<!--About-->
 <!-- middle section -->
-<div class="section-title changes">
+
+
+	<section class="about-app section lms-custom-class ">
+		<div class="container">
+		<div class="section-title text-center">
 	<h2>Why choose <span class="highlighted">Adhyay LMS with Online classes ?</span> </h2>
 	</div>
 
-
-	<section class="about-app section">
-		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
 					<div class="about-app-inner">
@@ -354,14 +355,15 @@
 	</section>
 	
 <!-- other middle-point -->
-<div class="section-title changes">
+
+
+	<section id="box4" class="lms-section section lms-custom-class">
+		<div class="container">
+		<div class="section-title text-center">
 	<h2> Benefits Of <span class="highlighted">LMS with online classes</span> </h2>
 	<p>Some of the key benefits of having LMS with online classes in yourschool are as follow</p>
 	</div>
 
-
-	<section id="box4" class="lms-section section bg-light">
-		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-2">
 					<div class="lms-figure">
@@ -404,7 +406,119 @@
 		</div>
 	</section>
 	
-	
+	<section id="box5" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 ">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Student teacher  <span class="highlighted"> appreciation</span></h2>
+                  <p>Having an online class in your school can be used to appreciate students-teachers to enhance their relationship with school. It also encourages them to do their best at school.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="box5" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Create content  <span class="highlighted">to get notify</span></h2>
+                        <p>Online class solutions simplify the day-to-day tasks of the teachers from sharing notes, lesson plans, and to-do reading lessons for the students at the last minute.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="box5" class="lms-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-2">
+					<div class="lms-figure">
+						<img src="images/img3.jpg" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 ">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Reduce <span class="highlighted">burden of teachers</span></h2>
+                     <p>This simplifies the day-to-day tasks of the teachers from sharing notes, lesson plans and to-do reading lessons for the students at the last minute.</p>
+						</div>
+						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="section-testimonials" >
+		<div class="">
+		<div class="slider">
+			<div class="slider__slides">
+				<div class="slider__slide slider__slide--1">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text"> 
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">Tanya Sinclair </span>
+								<span class="testimonial__cite--role">Vice Chancellor</span>
+							</cite> 
+						</blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
+					</figure>
+				</div>
+				<div class="slider__slide slider__slide--2">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text">
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">John Tarkpor </span>
+								<span class="testimonial__cite--role">Principal of Junior School</span>
+							</cite> </blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
+					</figure>
+				</div>
+			</div>
+			<div class="slider__buttons">
+				<div class="slider__button slider__button--prev">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
+					</svg>
+				</div>
+				<div class="slider__button slider__button--next">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
+						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+
+
 	<!-- <section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
