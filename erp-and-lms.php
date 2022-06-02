@@ -131,9 +131,10 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Best School Resources Management System And Adhyay Learning management system</h2>
+					<h2>Best School Resources Management System And Adhyay Learning management system</h2>
 						<h4>Manage all your school operations Without any stress <br>The easiest way to keep in touch with your School at any time,<br> anywhere with Adhyay</h4>
-						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
+
+					<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
@@ -450,55 +451,6 @@
 			</div>
 		</div>
 	</section>
-
-<!-- client review -->
-
-<section class="section-testimonials" >
-		<div class="">
-		<div class="slider">
-			<div class="slider__slides">
-				<div class="slider__slide slider__slide--1">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text"> 
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">Tanya Sinclair </span>
-								<span class="testimonial__cite--role">Vice Chancellor</span>
-							</cite> 
-						</blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
-					</figure>
-				</div>
-				<div class="slider__slide slider__slide--2">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text">
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">John Tarkpor </span>
-								<span class="testimonial__cite--role">Principal of Junior School</span>
-							</cite> </blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
-					</figure>
-				</div>
-			</div>
-			<div class="slider__buttons">
-				<div class="slider__button slider__button--prev">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
-						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
-					</svg>
-				</div>
-				<div class="slider__button slider__button--next">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
-						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
-					</svg>
-				</div>
-			</div>
-		</div>
-		
-	</section>
-
 
 	<!--Price list-->
 	

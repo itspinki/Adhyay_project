@@ -131,9 +131,10 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Best School Resources Management System </h2>
+					<h2>Best School Resources Management System </h2>
 						<h4>Manages all activities of your school with most <br>Advanced School Management Software</h4>
-						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
+
+					<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
@@ -167,7 +168,6 @@
 		</div>
 	</section>
 	
-
 	<section class="about-app entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -433,121 +433,6 @@
 		</div>
 	</section>
 
-	<section class="section-testimonials" >
-		<div class="">
-		<div class="slider">
-			<div class="slider__slides">
-				<div class="slider__slide slider__slide--1">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text"> 
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">Tanya Sinclair </span>
-								<span class="testimonial__cite--role">Vice Chancellor</span>
-							</cite> 
-						</blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
-					</figure>
-				</div>
-				<div class="slider__slide slider__slide--2">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text">
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">John Tarkpor </span>
-								<span class="testimonial__cite--role">Principal of Junior School</span>
-							</cite> </blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
-					</figure>
-				</div>
-			</div>
-			<div class="slider__buttons">
-				<div class="slider__button slider__button--prev">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
-						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
-					</svg>
-				</div>
-				<div class="slider__button slider__button--next">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
-						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
-					</svg>
-				</div>
-			</div>
-		</div>
-		
-	</section>
-
-
-	<!-- 3rd section ends -->
-	<!-- <section id="box6" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Online <span class="highlighted">ANALYSIS & REPORT CARD</span></h2>
-							<p>Create the homework and distribute it to the whole class or a group of particular students.<br /> Students can submit answers and also view pending and submitted homework, submission details.<br />  In this platform we can also assign the homework through the pdf , docx, image, video and youtube link. In our software you can work easily and with little time.</p>
-						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box7" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
-					<div class="lms-figure">
-						<img src="images/img3.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Online <span class="highlighted">LEAVE MANAGEMENT</span></h2>
-							<p> In the leave section Teachers request leave directly from your device and also send pdf or docs. Admin can be approved in a single click.</p>
-							<p> his is a single platform for teachers to easily apply for leave.</p>
-						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<section id="box8" class="lms-section section bg-light">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img4.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Online <span class="highlighted">FEES MANAGEMENT</span></h2>
-							<p>The fees section is the most important part in a School Management ERP. When you can do everything else through the app, wouldn’t it be nice if you could pay the fees also through the app? Online fees payment would be a real icing on the cake when using the school’s very own app. So we have accommodated this use case too, by providing a payment option for the Parents in the app Itself.</p>
-							<p>Parents can view & pay fees online from anywhere at anytime School Management can easily track the fee defaulters or check pending fees in a single click.</p>
-						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
 	
 	<!--Price list-->
 	

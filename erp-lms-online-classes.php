@@ -131,9 +131,10 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Save more time and efforts with Adhyay ERP, LMS and Online classes</h2>
+					<h2>Save more time and efforts with Adhyay ERP, LMS and Online classes</h2>
 						<h4>Everything to make your school run Smoothly and effortlessly.</h4>
-						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
+
+					<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
@@ -539,8 +540,7 @@
 			</div>
 		</div>
 	</section>
-	
-	
+
 	<!--Price list-->
 	
 	

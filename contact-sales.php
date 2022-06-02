@@ -211,11 +211,11 @@
 				<div class="col-lg-6 col-12">
 					<div class="content content-desktop">
 						<div class="section-title ">
-							<h2>Get in Touch</h2>
+						<h2>Get in Touch</h2>
 							<p>We would love to hear from you</p>
 							<p>Adhyay keeps you and your team connected wherever you are, so you can get more done, together.</p>
 							<p>Fill out the form on the right to get in touch with one of our representatives.</p>
-							
+				
 						</div>
 						
 						

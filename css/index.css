@@ -3200,8 +3200,7 @@ textarea {
 	font-family:"Lato", sans-serif;
 }
 .hasChild ul li a:hover{
-	color:#7a7a7a;
-  font-size: 16px;
+	color:grey;
 }
 .hasChild ul li:not(:last-child) a{
 	border-bottom:1px solid #2f6192;

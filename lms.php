@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhyay - LMS</title>
-	
+	<meta name="description" title="website designing companies" content="website design and development services">
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;300;400;500;800;900&display=swap" rel="stylesheet">
@@ -12,22 +14,12 @@
     <link rel="stylesheet" href="css/testimonials-slider.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/fontsize.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
     <link rel="stylesheet" href="css/inner.css">
-    <meta name="description" title="website designing companies" content="website design and development services">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
-    <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/responsive.css">
+    
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-	<script src="https://rawgit.com/cfoehrdes/slick/master/slick/slick.js"></script>
 	
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-180966897-1');
-</script>
 </head>
 <body>
 	<div id="video-popup-overlay"></div>
@@ -54,69 +46,6 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
 	
 	
 	<!--New Header-->
@@ -131,9 +60,10 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Adhyay school Learning Management System</h2>
+					<h2>Adhyay school Learning Management System</h2>
 						<h4>  Take Teaching learning to the next level<br>Anytime anywherelearning is simplified by Adhyay LMS!</h4>
-						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
+
+					<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
@@ -190,8 +120,28 @@
 							</div>
 							<div class="col-md-6 col-12">
 								<div class="video-pen">
-									
-									
+									<div id="counter" class="statistics-section">
+										<div class="row">
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">10</span> <span>K</span></h4>
+													<p>App Downloads</p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">4</span> <span>+</span></h4>
+													<p>Average Review </p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter percent">1</span> <span>M</span></h4>
+													<p>Active Users</p>
+												</div>
+											</div>
+										</div>
+									</div>
 									
 								</div>
 							</div>
@@ -217,7 +167,7 @@
 	<!--End Cta-->
 	
 	<!--About-->
-	<!-- <section class="about-app section">
+	<!--<section class="about-app section">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
@@ -225,9 +175,8 @@
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-									<h2>"Enhance your Teaching and learning Experience" <span class="highlighted"> with Adhyay LMS”</span></h2>
-									<p>With Adhyay LMS, you can streamline all your learning processes within a single platform. The system enables a teacher to create and deliver content, monitor student participation, and track student performance. It is a completely hassle-free and paperless solution for remote learning.
-                                    </p>
+									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
+									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
 								</div>
 								<div id="counter" class="statistics-section">
 									<div class="row">
@@ -271,12 +220,8 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
+	</section>-->
 	<!--End about-->
-	
-	<!-- middle heading -->
-
-
 	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
 			<div class="section-title text-center">
@@ -616,6 +561,7 @@
 
 	
 	
+	
 	<!--Price list-->
 	
 	
@@ -855,5 +801,6 @@
 	<?php include "inc/footer.php";?>
 	
 	<script src="js/mynavigation.js"></script>
+	
 </body>
 </html>

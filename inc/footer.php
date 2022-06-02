@@ -1,7 +1,7 @@
 	<footer class="footer-area">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-3 col-md-6 col-12">
 					<div class="footer-about-widget">
 						<div class="logo">
 							<a href="#"><img src="images/logo.png" alt=""></a>
@@ -34,9 +34,9 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-6">
+				<div class="col-lg-2 col-md-6 col-6">
 					<div class="footer-navigation">
-						<h4 class="title">Sitemap </h4>
+						<h4 class="title">Sitemap</h4>
 						<ul>
 							<li><a href="#">HOME</a></li>
 							<li><a href="#">SRMS</a></li>
@@ -49,7 +49,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-3 col-md-6 col-6">
 					<div class="footer-navigation">
 						<h4 class="title">Services</h4>
 						<ul>
@@ -63,7 +63,7 @@
 						</ul>
 					</div>                    
 				</div>
-				<div class="col-lg-2 col-md-6">
+				<div class="col-lg-2 col-md-6 col-6">
 					<div class="footer-navigation">
 						<h4 class="title">Adhyay Values</h4>
 						<ul>
@@ -77,7 +77,7 @@
 						</ul>
 					</div>                    
 				</div>
-				<div class="col-lg-2 col-md-6">
+				<div class="col-lg-2 col-md-6 col-6">
 					<div class="footer-navigation">
 						<h4 class="title">For Schools</h4>
 						<ul>
@@ -87,7 +87,7 @@
 							<li><a href="#">Information</a></li>
 						</ul>
 						<p></p>
-						<h4 class="title">For Corporates</h4>
+						<h4 class="title mt-5">For Corporates</h4>
 						<ul>
 							<li><a href="#">Automation</a></li>
 							<li><a href="#">Security</a></li>
@@ -95,7 +95,6 @@
 						</ul>
 					</div>                    
 				</div>
-				
 			</div>
 			<div class="row">
 				<div class="col-lg-12">

@@ -208,8 +208,8 @@
 		<img class="shapeimg_001" src="images/shape02.png" alt="">
 		<div class="container">
 			<div class="section-title text-center">
-				<h2>VIDEO CONFERENCING FEATURES  <br /><span class="highlighted">AND PRICING</span></h2>
-				
+			<h2>VIDEO CONFERENCING FEATURES  <br /><span class="highlighted">AND PRICING</span></h2>
+
 				<div class="switch">
 					<label class="switch__wrapper">
 						<input type="checkbox" />
@@ -722,7 +722,7 @@
 	<!--Price list-->
 	
 	
-	<!-- <section class="section price__list">
+	<section class="section price__list">
 		<div class="container">
 			<div class="section-title text-center">
 				<h2>What features are right <br />for you?</h2>
@@ -841,7 +841,7 @@
 				<button class="pricing-action">Choose plan</button>
 			</div>
 		</div>
-	</section> -->
+	</section>
 	<!--End price list-->
 	
 	

@@ -66,7 +66,7 @@
 				<div class="col-lg-7 col-12">
 					<div class="content content-desktop">
 						<div class="section-title ">
-					<p>	Can’t find the answer you’re looking for? We’ve shared some of our most frequently asked questions to help you out.</p>
+						<p>	Can’t find the answer you’re looking for? We’ve shared some of our most frequently asked questions to help you out.</p>
                         <h2>We're here to help you</h2>
 						<!-- <h2>Frequently Asked Questions </h2> -->
 
@@ -105,7 +105,8 @@
 						</div>
 					</div>
 				</div>
-				
+
+
 				<div class="col-lg-5 col-12">
 					<div class="form"> 
 						<form class="FormStandard "  action="" autocomplete="off" method="POST" >

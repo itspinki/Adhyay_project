@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhyay - Video Conferencing</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,22 +13,13 @@
     <link rel="stylesheet" href="css/testimonials-slider.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/fontsize.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
     <link rel="stylesheet" href="css/inner.css">
-    <meta name="description" title="website designing companies" content="website design and development services">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
-    <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/responsive.css">
+    
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-	<script src="https://rawgit.com/cfoehrdes/slick/master/slick/slick.js"></script>
 	
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-180966897-1');
-</script>
 </head>
 <body>
 	<div id="video-popup-overlay"></div>
@@ -131,7 +123,7 @@
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Adhyay YU Video conferencing Software</h2>
+					<h2>Adhyay YU Video conferencing Software</h2>
 						<h4>Our fully featured video conferencing software 
                                       enables you to collaborate with your team in real-time 
                                       using video, audio, digi board, live group and private chat 
@@ -536,51 +528,6 @@
 
 
 
-	<section class="section-testimonials" >
-		<div class="">
-		<div class="slider">
-			<div class="slider__slides">
-				<div class="slider__slide slider__slide--1">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text"> 
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">Tanya Sinclair </span>
-								<span class="testimonial__cite--role">Vice Chancellor</span>
-							</cite> 
-						</blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
-					</figure>
-				</div>
-				<div class="slider__slide slider__slide--2">
-					<figure class="testimonial slider__slide-content">
-						<blockquote class="testimonial__text">
-							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
-							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
-							<cite class="testimonial__cite">
-								<span class="testimonial__cite--name">John Tarkpor </span>
-								<span class="testimonial__cite--role">Principal of Junior School</span>
-							</cite> </blockquote>
-						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
-					</figure>
-				</div>
-			</div>
-			<div class="slider__buttons">
-				<div class="slider__button slider__button--prev">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
-						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
-					</svg>
-				</div>
-				<div class="slider__button slider__button--next">
-					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
-						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
-					</svg>
-				</div>
-			</div>
-		</div>
-		
-	</section>
 
 
 
@@ -879,7 +826,7 @@
 			</div>
 		</div>
 	</section>-->
-	
+
 	<!--Price list-->
 	
 	
@@ -1005,6 +952,51 @@
 	</section>
 	<!--End price list-->
 	
+	<section class="section-testimonials" >
+		<div class="">
+		<div class="slider">
+			<div class="slider__slides">
+				<div class="slider__slide slider__slide--1">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text"> 
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ I’ve been interested in coding for a while but never taken the jump, until now. I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">Tanya Sinclair </span>
+								<span class="testimonial__cite--role">Vice Chancellor</span>
+							</cite> 
+						</blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-tanya.jpg" alt=""> </div>
+					</figure>
+				</div>
+				<div class="slider__slide slider__slide--2">
+					<figure class="testimonial slider__slide-content">
+						<blockquote class="testimonial__text">
+							<img class="testimonial__quotation-marks" src="images/pattern-quotes.svg" alt="quotation marks">
+							<p class="testimonial__quote"> “ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ” </p> 
+							<cite class="testimonial__cite">
+								<span class="testimonial__cite--name">John Tarkpor </span>
+								<span class="testimonial__cite--role">Principal of Junior School</span>
+							</cite> </blockquote>
+						<div class="testimonial__img"> <img class="testimonial__photo" src="images/image-john.jpg" alt="John Tarkpor"> </div>
+					</figure>
+				</div>
+			</div>
+			<div class="slider__buttons">
+				<div class="slider__button slider__button--prev">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+						<path fill="none" stroke-width="3" d="M11 1L3 9l8 8" />
+					</svg>
+				</div>
+				<div class="slider__button slider__button--next">
+					<svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
+						<path fill="none" stroke-width="3" d="M2 1l8 8-8 8" />
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+	</section>
 	
 	<section class="banner-footer">
 		<div class="container">

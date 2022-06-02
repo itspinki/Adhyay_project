@@ -8,6 +8,7 @@ document.getElementById('navigation__dot--out').addEventListener('click',functio
 });
 */
 
+
 /***************Accordian**********/
 const accordion = document.getElementsByClassName('container');
 for (i=0; i<accordion.length; i++) {
@@ -16,7 +17,6 @@ for (i=0; i<accordion.length; i++) {
     this.classList.toggle('active')
   });
 }
-
 
 
 window.addEventListener('load', (event) => {
@@ -130,6 +130,19 @@ $(document).ready(function(){
 	$("#video-popup-close, #video-popup-overlay").on('click', function(e) {
 		$("#video-popup-iframe-container,#video-popup-container,#video-popup-close,#video-popup-overlay").hide();
 		$("#video-popup-iframe").attr('src', '');
+	});
+	
+	
+	/**********Mobile nav*********/
+	$(".c-cta__button__menu").on('click',function(){
+		//alert("Hi");
+		$(".mobile-navigation").addClass('mobile-navigationActive');
+		$(".overLay").addClass('overLayActive');
+	});
+	$(".overLay,.closeBtn").on('click',function(){
+		//alert("Hi");
+		$(".mobile-navigation").toggleClass('mobile-navigationActive');
+		$('.overLay').toggleClass('overLayActive');
 	});
 });
 
@@ -356,3 +369,6 @@ toggle.addEventListener('click', function() {
 	}
 	console.log(toggleNumber)
 });
+
+
+
