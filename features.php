@@ -526,7 +526,7 @@
 						<h2> A secure web conferencing solution for online meeting and webinar</h2>
 						<!-- <h3>The power of automation</h3>
 						<p>Dedicated features that act as a powerful tool for the faster completion of tasks. Smart new features like RFID attendance, online fee payment, and the most convinient communication with parents, are now on Adhyay.</p> -->
-						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
+						<a href='plans.php' class="btn-custom ">Get a Free Demo</a>
 
 						<!-- <div class="vpop" data-type="youtube" data-id="FpNPX2Dnjwc" data-autoplay='true'>
 							<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">

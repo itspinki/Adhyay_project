@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
+	<link rel="stylesheet" href="css/responsive.css">
     <meta name="description" title="website designing companies" content="website design and development services">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
     <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhyay - LMS + Online Classes</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,20 +15,13 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
-    <meta name="description" title="website designing companies" content="website design and development services">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
-    <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-	<script src="https://rawgit.com/cfoehrdes/slick/master/slick/slick.js"></script>
+	<link rel="stylesheet" href="css/responsive.css">
 	
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	
+	
 
-  gtag('config', 'UA-180966897-1');
-</script>
 </head>
 <body>
 	<div id="video-popup-overlay"></div>
@@ -54,72 +48,7 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
-	
-	
-	<!--New Header-->
+ 
 	<?php include "inc/header.php";?>	
 	<!--New header end-->
 	
@@ -171,18 +100,18 @@
 	
 	<section class="about-app entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
 		<div class="container">
+			<div class="section-title text-center pb-0 pb-lg-5">
+				<h2>Why choose <span class="highlighted">ADHYAY LMS WITH ONLINE CLASSES?</span> </h2>
+			</div>
 			<div class="row justify-content-center">
 				<div class="col-lg-12 col-md-12 col-12">
 					<div class="about-app-inner">
 						<div class="row">
 							<div class="col-md-6 col-12">
 								<div class="section-title">
-								<h2>"Get started with our" <span class="highlighted">Learning Management System with online classes solution”</span></h2>
-                           <p>Now we are providing LMS with online classes  through our video conferencing.
-                              That is much easier with Adhyay yu. It uses high-resolution displays, white board,screen sharing and all facilities.
-                               </p>
-
-							</div>
+									<h2><span class="highlighted" style="color:#333;">Customization</span> </h2>
+									<p>Keep your students aware with Adhyay LMS with Online classes solution. The system is designed as per the user requirement so that it can easily be personalised.</p>
+								</div>
 								<div class="video-enter">
 									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
 										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
@@ -195,8 +124,28 @@
 							</div>
 							<div class="col-md-6 col-12">
 								<div class="video-pen">
-									
-									
+									<div id="counter" class="statistics-section">
+										<div class="row">
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">10</span> <span>K</span></h4>
+													<p>App Downloads</p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">4</span> <span>+</span></h4>
+													<p>Average Review </p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter percent">1</span> <span>M</span></h4>
+													<p>Active Users</p>
+												</div>
+											</div>
+										</div>
+									</div>
 									
 								</div>
 							</div>
@@ -220,69 +169,6 @@
 		</div>
 	</section>
 	<!--End Cta-->
-	
-	<!--About-->
-	<section class="about-app section lms-custom-class ">
-		<div class="container">
-		<div class="section-title text-center">
-	<h2>Why choose <span class="highlighted">Adhyay LMS with Online classes ?</span> </h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2><span class="highlighted">Customization</span></h2>
-                         <p>Keep your students aware with Adhyay LMS with Online classes solution. The system is designed as per the user requirement so that it can easily be personalised.</p>
-								</div>
-								<!-- <div id="counter" class="statistics-section">
-									<div class="row">
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">10</span> <span>K</span></h4>
-												<p>App Downloads</p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">4</span> <span>+</span></h4>
-												<p>Average Review </p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter percent">1</span> <span>M</span></h4>
-												<p>Active Users</p>
-											</div>
-										</div>
-									</div>
-								</div> -->
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									<img src="images/video_layer01.jpg" alt="" class="video_layer video_layer_1">
-									<img src="images/video_layer02.jpg" alt="" class="video_layer video_layer_2">
-									<img src="images/video_layer03.jpg" alt="" class="video_layer video_layer_3">
-									
-									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
-										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-										  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-										</svg>
-									</div>
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<!--End about-->
-	
 	
 	
 	<section id="box1" class="lms-section section" >
@@ -312,13 +198,13 @@
 	<section id="box2" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img2.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>In the <span class="highlighted">Training</span></h2>
@@ -364,13 +250,13 @@
 	</div>
 
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Create <span class="highlighted"> informative content</span></h2>
@@ -408,13 +294,13 @@
 	<section id="box5" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-1">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 ">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2> Student teacher  <span class="highlighted"> appreciation</span></h2>
@@ -452,13 +338,13 @@
 	<section id="box5" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 ">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2> Reduce <span class="highlighted">burden of teachers</span></h2>

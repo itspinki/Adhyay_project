@@ -166,61 +166,6 @@
 	</section>
 	<!--End Cta-->
 	
-	<!--About-->
-	<!--<section class="about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
-								</div>
-								<div id="counter" class="statistics-section">
-									<div class="row">
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">10</span> <span>K</span></h4>
-												<p>App Downloads</p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">4</span> <span>+</span></h4>
-												<p>Average Review </p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter percent">1</span> <span>M</span></h4>
-												<p>Active Users</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									<img src="images/video_layer01.jpg" alt="" class="video_layer video_layer_1">
-									<img src="images/video_layer02.jpg" alt="" class="video_layer video_layer_2">
-									<img src="images/video_layer03.jpg" alt="" class="video_layer video_layer_3">
-									
-									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
-										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-										  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-										</svg>
-									</div>
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>-->
 	<!--End about-->
 	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
@@ -237,30 +182,6 @@
 				
 				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
-						<!-- <div class="section-title"> -->
-							<!-- <h2>Why is Adhyay LMS   <span class="highlighted">important?</span> for your institution</h2> -->
-							<!-- <p>Adhyay LMS provide an effective and well-implemented learning management system, some of the reasons are -</p> -->
-						<!-- </div> -->
-						<!-- <div class= "features-list">
-								<ul>
-									<li>
-										<h4>Content customization in just a few clicks</h4>
-										<p>Adhyay  LMS allows administration to customise the learning content according to their preferences.</p>
-									</li>
-									<li>
-										<h4>Consistency in content delivery</h4>
-                                       <p>The system helps faculty to upload and schedule content whenever they want. The feature allows teachers to set reminders and particular timing for consistently posting content.</p>
-									</li>
-									<li>
-										<h4>Improved teacher-student collaboration</h4>
-                                   <p>Without putting any effort, students can post their query at any time in just a few steps and faculty can view . Adhyay LMS improves the student-teacher collaboration</p>
-									</li>
-									<li>
-										<h4>Easily accessible</h4>
-                                   <p>Adhyay Learning management system provides all data at the same place in an organised way. Students and teachers can access classes, schedules, learning material, archives and tests in just one click.</p>
-									</li>
-								</ul>
-						</div> -->
 						<div class="section-title">
 									<h2>"Content customization" <span class="highlighted"> in just a few clicks”</span></h2>
                                <p>Adhyay  LMS allows administration to customise the learning content according to their preferences.</p>
@@ -273,74 +194,22 @@
 		</div>
 	</section>
 	
-	<!-- <section id="box2" class="lms-section section bg-light">
+	<section id="box2" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
-					<div class="lms-figure">
-						<img src="images/img2.jpg" alt="">
-					</div>
-				</div>
-				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
-					<div class="lms-content">
-						<div class="section-title">
-							<h2>Automated attendance   <span class="highlighted">FOR STAFF AND STUDENTS</span></h2>
-							<p>It is time to move forward with an automated attendance system with Adhyay and leave ancient paper work to rest.</p>
-						</div>
-						<a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
-	
-	<section id="box3" class="lms-section section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-1">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2> Consistency in <span class="highlighted">content delivery</span></h2>
-                   <p>The system helps faculty to upload and schedule content whenever they want. The feature allows teachers to set reminders and particular timing for consistently posting content.</p>
+							<p>The system helps faculty to upload and schedule content whenever they want. The feature allows teachers to set reminders and particular timing for consistently posting content.</p>
 						</div>
-						<!-- <div class= "features-list">
-								<ul>
-									<li>
-										<h4>Multiple tasks from a single platform</h4>
-										<p>Adhyay LMS makes it easier for everyone to access all the information from a single dashboard. It helps to manage multiple tasks by putting in less efforts.</p>
-									</li>
-									<li>
-										<h4>Simplify the process of learning</h4>
-                                <p>The system simplifies the overall process of the learning. With a range of features like recording, tracking and documentation LMS enhances teaching experience with putting in any efforts.</p>
-									</li>
-									<li>
-										<h4>Generate report</h4>
-                                <p>Adhyay  LMS reduces the time of manually writing reports through an automated report generation tool. It becomes easier for the administration to evaluate and analyse the student learning process at any time.</p>
-									</li>
-									<li>
-										<h4>Reduce time-complexity</h4>
-                                   <p>Instead of sitting in a long class, students can anytime, anywhere can click the desired topic and chapter. It saves the time of administration and the teacher to easily figure out the area of required changes in just a few clicks.</p>
-									</li>
-									<li>
-										<h4>Unlimited access to learning materials</h4>
-                                  <p>When all the e-learning content is uploaded to the LMS, the student can easily access all the information. Teachers can conveniently log in to their LMS account and access the whole module from their mobile phone, tablets or some other laptop.</p>
-									</li>
-									<li>
-										<h4>Anytime, anywhere learning</h4>
-                                  <p>Adhyay learning management system eases or simplifies the process of learning. It allows the new students and teachers to figure out everything very quickly and effortlessly.</p>
-									</li>
-								</ul>
-						</div> -->
-
-
-						<!-- <a href="#" class="btn-custom cd-popup-trigger">Book a free demo</a> -->
+						
 					</div>
 				</div>
 			</div>
@@ -350,13 +219,13 @@
 	<section id="box4" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-1">
+				<div class="col-lg-7 col-md-7 col-12 ">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Improved <span class="highlighted">teacher-student collaboration</span></h2>
@@ -372,13 +241,13 @@
 	<section id="box5" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-1">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Easily <span class="highlighted">accessible</span></h2>
@@ -429,13 +298,13 @@
          </div>
 
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Multiple tasks from a <span class="highlighted">single platform</span></h2>
@@ -473,13 +342,13 @@
 	<section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Generate <span class="highlighted"> report</span></h2>
@@ -518,13 +387,13 @@
 	<section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Unlimited access to <span class="highlighted">learning materials</span></h2>
@@ -540,13 +409,13 @@
 	<section id="box4" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-1">
+				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Anytime, anywhere <span class="highlighted"> learning</span></h2>

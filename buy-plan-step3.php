@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <meta name="description" title="website designing companies" content="website design and development services">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
     <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
@@ -102,7 +103,7 @@
 						<div class="content">
 							<div class="">
 								<div class="row">
-									<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+									<div class="col-lg-8 col-md-7 col-12">
 										<div class="box payments">
 											<h3 class="box-title">Billing Information</h3>
 											<div class="plan-details">
@@ -146,9 +147,9 @@
 											
 										</div>
 										
-										<a href="#" class="btn-custom mb30">Continue With Plans</a> 
+										<a href="#" class="btn-custom mb30">Continue</a> 
 									</div>
-									<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+									<div class="col-lg-4 col-md-5 col-12">
 										<div class="widget">
 											<h4 class="widget-title">Order Summary</h4>
 											<div class="summary-block">
@@ -177,6 +178,7 @@
 												</div>
 											</div>
 										</div>
+										<div class="mt-5 mt-md-0 px-0 px-md-3"><a href="#" class="btn-custom mb30">Continue</a> </div>
 									</div>
 								</div>
 								

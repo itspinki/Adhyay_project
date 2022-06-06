@@ -39,6 +39,9 @@ Responsive CSS
 		right: -1.3rem;
 		top: 42%;
 	}
+	.plugin{
+		width:100%;
+	}
 }
 
 
@@ -81,16 +84,20 @@ Responsive CSS
 	.banner-inner-content p{
 		font-size:20px;
 	}
-}
-@media (max-width:1199px){
-	.video-pen .statistics-section{
-		width: 95%;
-		padding: 20px;
+	.plan-page .c-header{
+		padding:16px 0 14px 0
 	}
-	.statistics-section .stastic-col:not(:last-child) .stastic:after{
-		right:10%;
+	.ecommerce_packages_block{
+		padding:150px 0 5% 0;
+	}
+	.tablinks{
+		width:24%;
+	}
+	.process-model li::after{
+		left:-100px;
 	}
 }
+
 @media (max-width:991px){
 	.video-pen .statistics-section{
 		width: 95%;
@@ -108,11 +115,66 @@ Responsive CSS
 	.about-app {
 		padding: 50px 0 100px 0;
 	}
+	.contact-cards{
+		width:auto;
+	}
+	.hero__layer_5{
+		width:100%;
+		object-fit:cover;
+		z-index:-1;;
+	}
+	.tablinks h3{
+		font-size:18px;
+		margin-left:15px;
+	}
+	.tablinks .tab-content svg{
+		width:25px;
+		height:25px;
+	}
+	.tablinks h3 small {
+		font-size: 13px;
+		margin: 4px 0 0;
+	}
+	.tablinks.active,.tablinks{
+		height:65px;
+	}
+	.secure-msgs:after{
+		opacity:.1;
+	}
+	.secure-img1{
+		width:130px;
+	}
+	.secure-img2{
+		width:155px;
+	}
+	.box{
+		padding:50px 30px;
+	}
+	.plan-data label{
+		padding-right:25%;
+	}
+	.process-content .widget{
+		padding:50px 25px;
+	}
+	.summary-head{
+		width:130px;
+	}
+	.plan-price{
+		top:4px;
+		bottom:auto;
+	}
+	.additional .plan-wrapper .plan-selection{
+		width:33.333%;
+	}
+	.additional .plan-wrapper .plan-selection .plan-data {
+		padding: 0 10px 20px;
+	}
 }
 
 @media (max-width:767px){
 	.video-enter{
-		margin-bottom:30px;
+		margin-bottom: 30px;
+		padding: 0 20px;
 	}
 	.about-app-inner .section-title{
 		padding:0 20px;
@@ -161,19 +223,23 @@ Responsive CSS
 		line-height: 4rem;
 	}
 	.hero-layers{
-		display:none;
+		overflow:visible;
+		z-index:-1;
+		
 	}
 	.hero-text {
 		transition: transform 0.5s;
 		-webkit-transition: transform 0.5s;
 		padding: 70px 20px 0 20px;
+		position:relative;
+		z-index:1;
 	}
 	.ssl-certification{
 		left:0;
 	}
 	.hero-section{
-		min-height:85vh;
-		height:85vh;
+		min-height:100vh;
+		height:100vh;
 	}
 	section{
 		overflow:hidden;
@@ -184,7 +250,67 @@ Responsive CSS
 	.statistics-section .stastic-col:not(:last-child) .stastic:after {
 		right: 5%;
 	}
+	.hero-layers .hero__layer_1 {
+		width: 180px;
+	}
+	.hero-layers .hero__layer_2{
+		width:50px;
+	}
+	.absActivePage .hero-layers .hero__layer_2 {
+		transform: translatey(-290%);
+		opacity: 1;
+	}
 	
+	.ecommerce_packages_block{
+		padding:130px  0 80px 0;
+	}
+	.custom-column-wrapper .text-wiget {
+		padding: 15px 30px;
+		border: 0 !important;
+	}
+	.custom-column-wrapper{
+		margin:60px 15px 0px;
+	}
+	.faq-page .accordion{
+		margin:0 0 50px 0;
+	}
+	.api-Integrations-wrapper{
+		padding:0 20px;
+	}
+	.plugin{
+		margin:10px 0;
+	}
+	.tabs{
+		flex-wrap:wrap;
+		height:auto;
+	}
+	.tablinks {
+		width: 48%;
+		margin: 20px 0 0;
+	}
+	.wrapper_tabcontent{
+		margin:30px 0 0;
+	}
+	.secure-msgs{
+		height:580px;
+	}
+	.process-model{
+		align-items:flex-start;
+	}
+	.process-model li::after {
+		left: -60px;
+	}
+	.process-content .widget {
+		margin: 40px 0 0;
+	}
+	.payments .plan-data label {
+		align-items: flex-start;
+		flex-direction: column;
+	}
+	.payments .plan-data label img {
+		height: 30px;
+		margin: 10px 0 0 0;
+	}
 }
 
 @media (max-width:575px){
@@ -227,5 +353,64 @@ Responsive CSS
 		font-size:16px;
 		padding:1rem 2rem;
 	}
+	.FormStandard__field,.ques,.FormStandard__fields .FormStandard__field:nth-child(1), .FormStandard__fields .FormStandard__field:nth-child(2),.middle .left-img{
+		width:100%;
+	}
+	
+	.FormStandard{
+		padding:3% 0;
+	}
+	.ecommerce_packages_block {
+		padding: 100px 0 80px 0;
+	}
+	.contact-cards .Card{
+		width:calc(100% - 0px);
+	}
+	.FormStandard{
+		margin: 0 15px;
+		width:calc(100% - 30px);
+	}
+	.plugin .int-btn{
+		width: 100%;
+		float: none;
+		display: block;
+		line-height: 34px;
+	}
+	.plugin .int-btn + .int-btn{
+		background:#b6dbff;
+		
+	}
+	.tablinks .tab-content svg {
+		width: 20px;
+		height: 20px;
+	}
+	.tablinks h3{
+		margin-left:10px;
+	}
+	.additional .plan-wrapper .plan-selection {
+		width: 50%;
+	}
+	.process-model{
+		margin:0 20px 0 20px;
+	}
+	.process-model li i{
+		font-size:14px;
+		width:38px;
+		height:38px;
+	}
+	.process-model li p{
+		font-size:12px;
+	}
+	.more-icon-preocess.process-model li::after {
+		top: 20px;
+		height:2px;
+	}
+	.process-model li::after {
+		left: -30px;
+	}
+	.box {
+		padding: 30px 20px;
+	}
+	
 }
 

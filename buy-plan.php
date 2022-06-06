@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <meta name="description" title="website designing companies" content="website design and development services">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
     <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
@@ -54,70 +55,6 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
-	
 	
 	<!--New Header-->
 	<?php include "inc/header.php";?>	
@@ -169,41 +106,7 @@
 	</section>
 	
 	
-	<!--<section class="about-app video-entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
-								</div>
-								<div class="video-enter">
-									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
-										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-										  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-										</svg>
-										<h4>See how it works</h4>
-									</div>
-									
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-									
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>-->
-
+	
 	<section class="design-process-section ecommerce_packages_block margin-top-small" id="process-tab">
 		<div class="container">
 			<div class="row">
@@ -243,7 +146,7 @@
 						<div class="content">
 							<div class="">
 								<div class="row">
-									<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+									<div class="col-lg-8 col-md-7 col-12">
 										<div class="box">
 											<h3 class="box-title">Select Your Plan</h3>
 											<div class="plan-selection">
@@ -310,7 +213,7 @@
 											<div class="plan-wrapper">
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box1" type="radio" class="with-font" />
+														<input id="box1" type="radio" name="radio1" class="with-font" />
 														<label for="box1">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -322,7 +225,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box2" type="radio" class="with-font" />
+														<input id="box2" type="radio" name="radio1" class="with-font" />
 														<label for="box2">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headphones" viewBox="0 0 16 16">
 															<path d="M8 3a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8a6 6 0 1 1 12 0v5a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1V8a5 5 0 0 0-5-5z"/>
@@ -334,7 +237,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box3" type="radio" class="with-font" />
+														<input id="box3" type="radio" name="radio1" class="with-font" />
 														<label for="box3">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -346,7 +249,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box4" type="radio" class="with-font" />
+														<input id="box4" type="radio" name="radio1" class="with-font" />
 														<label for="box4">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -358,7 +261,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box5" type="radio" class="with-font" />
+														<input id="box5" type="radio" name="radio1" class="with-font" />
 														<label for="box5">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -370,7 +273,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box6" type="radio" class="with-font" />
+														<input id="box6" type="radio" name="radio1" class="with-font" />
 														<label for="box6">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -382,7 +285,7 @@
 												</div>
 												<div class="plan-selection">
 													<div class="plan-data">
-														<input id="box7" type="radio" class="with-font" />
+														<input id="box7" type="radio" name="radio1" class="with-font" />
 														<label for="box7">
 															<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cloud-fill" viewBox="0 0 16 16">
 															<path d="M4.406 3.342A5.53 5.53 0 0 1 8 2c2.69 0 4.923 2 5.166 4.579C14.758 6.804 16 8.137 16 9.773 16 11.569 14.502 13 12.687 13H3.781C1.708 13 0 11.366 0 9.318c0-1.763 1.266-3.223 2.942-3.593.143-.863.698-1.723 1.464-2.383z"/>
@@ -397,7 +300,7 @@
 										</div> 
 										<a href="#" class="btn-custom mb30">Continue With Plans</a> 
 									</div>
-									<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+									<div class="col-lg-4 col-md-5 col-12">
 										<div class="widget">
 											<h4 class="widget-title">Order Summary</h4>
 											<div class="summary-block">

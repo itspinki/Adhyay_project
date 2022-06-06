@@ -73,7 +73,7 @@
 													</a>
 												</li>
 												<li>
-													<a href="faq1.php">
+													<a href="faq.php">
 														<strong>FAQ</strong>
 													</a>
 												</li>
@@ -83,7 +83,7 @@
 									</div>
 								</li>
 
-								<li class='c-navigation__list-item'><a href='features.php' title='features.php'>Features</a></li>
+								<li class='c-navigation__list-item'><a href='features.php' title=''>Features</a></li>
 									
 
 							<li class='c-navigation__list-item'>
@@ -180,5 +180,91 @@
 			
 		</div>
 	</header>
+		<!--Mobile navigation-->
+		<div class="mobile-navigation">
+			<div class="closeBtn">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+				  <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+				</svg>
+			</div>
+			<div class="mob-nav-header">
+				<a href="/" class="brand"><img src="images/logo.png" alt=""></a>
+				<a href='javascript:void();' title='' class="link-custom cd-popup-trigger"> 
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+				  <path fill-rule="evenodd" d="M6 3.5a.5.5 0 0 1 .5-.5h8a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 0-1 0v2A1.5 1.5 0 0 0 6.5 14h8a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-8A1.5 1.5 0 0 0 5 3.5v2a.5.5 0 0 0 1 0v-2z"/>
+				  <path fill-rule="evenodd" d="M11.854 8.354a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H1.5a.5.5 0 0 0 0 1h8.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3z"/>
+				</svg>
+				sign in</a>
+			</div>
+			<div class="hometab"><a href="/">Home</a></div>
+			<div id="accordion">
+				
+				<h3>SOLUTIONS</h3>
+				<div>
+					<div id="accordion2">
+						<h3>VIDEO CONFERENCE</h3>
+						<div>
+							<a href="video-conferencing.php" >AUDIO/VIDEO CALLS</a>
+							<a href="webinar.php" >WEBINAR</a>
+							<a href="api-integrations.php" >API INTEGRATION</a>
+							<a href="faq.php" >FAQ</a>
+							
+						</div>
+						<h3>SCHOOL RESOURCE MANAGEMENT SYSTEM</h3>
+						<div>
+							<a href="lms.php" >LMS</a>
+							<a href="lms-and-online-classes.php" >LMS+ ONLINE CLASSES</a>
+							<a href="erp.php" >ERP</a>
+							<a href="erp-and-lms.php" >ERP+LMS</a>
+							<a href="erp-lms-online-classes.php" >ERP + LMS + ONLINE CLASSES</a>
+							<a href="contact-sales.php" >CONTACT SALES</a>
+							<a href="faq1.php" >FAQ</a>
+						</div>
+					</div>
+				</div>
+				<h3>PRICING</h3>
+				<div>
+					<div>
+						<a href="plans.php" >VIDEO CONFERENCING PRICING</a>
+						<a href="erp-pricing.php" >ERP SOLUTION PRICING</a>
+					</div>
+				</div>
+				
+				<h3>RESOURCES</h3>
+				<div>
+					<div>
+						<a href="#" >What's new</a>
+						<a href="#" >Blog</a>
+						<a href="#" >Customer Review</a>
+					</div>
+				</div>
+			</div>
+			<div class="hometab"><a href="features.php">Features</a></div>
+			<div class="hometab"><a href="about-us.php">About US</a></div>
+			<div class="hometab"><a href="contact-us.php">Contact Us</a></div>
+		</div>
+	
+	
+	<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+	<script>
+		$(function(){
+		var icons = {
+			header: "ui-icon-triangle-1-e",
+				activeHeader: "ui-icon-triangle-1-s "
+			};
+			$( "#accordion" ).accordion({
+				icons: icons,
+				heightStyle: "content",
+				active: "false",
+			});
+			$( "#accordion2" ).accordion({
+				icons: icons,
+				heightStyle: "content",
+				active: "false",
+				collapsible: "true"
+			});
+		});
+  </script>
 		
+	
 	

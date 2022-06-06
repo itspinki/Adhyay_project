@@ -9975,7 +9975,6 @@ h2 {
     border: 0;
     outline: none;
     cursor: pointer;
-	border-radius:5px;
 }
 .btn-custom:hover{
 	opacity:.7;
@@ -10112,7 +10111,6 @@ h2 {
     line-height: 20px;
     font-size: 18px;
 }
-
 .c-navigation__list-item ul{
 	max-width:100%;
 	padding:0px;
@@ -10139,12 +10137,6 @@ h2 {
     margin: 6px 0 0;
     text-transform: none;
 }
-.c-navigation__list-item ul li:not(:last-child) a{
-	
-}
-
-
-
 
 .c-cta {
 	display: flex;
@@ -10276,20 +10268,20 @@ h2 {
 	opacity:0;
 }
 .hero-text h4{
-	color: #fcbb1e;
+	color: #fff;
     font-size: 22px;
     font-weight: 500;
     margin: 0 0 20px 0;
 	transition-delay:0s;
 }
 .hero-text h2{
-	color: #fff;
-    font-size: 62px;
+	color: #fcbb1e;
+    font-size: 45px;
     font-weight: 800;
     letter-spacing: 1px;
 	margin:0 0 30px 0;
 	text-transform:uppercase;
-	line-height: 7.5rem;
+	line-height: 6.5rem;
 	transition-delay:.4s;
 }
 .hero-text .btn-custom{
@@ -10486,7 +10478,6 @@ SSL Icons
     align-items: center;
     justify-content: center;
     height: 480px;
-	border-radius:10px;
     *transform: skew(-6deg, 0deg);
 }
 .video-pen:after{
@@ -10499,7 +10490,6 @@ SSL Icons
     content: "";
     opacity: .6;
     z-index: 0;
-	border-radius:10px;
 }
 
 .entrance-section .video-pen:after{
@@ -10740,7 +10730,6 @@ SSL Icons
 /****************lms section************/
 .lms-figure img{
 	width:100%;
-	border-radius:10px;
 }
 .lms-content{
 	padding-left:0;
@@ -10754,7 +10743,7 @@ SSL Icons
 		padding-left:10%;
 		margin-top:0px;
 	}
-	.order-md-1 .lms-content{
+	.order-1 .lms-content{
 		padding-left:0%;
 		padding-right:10%;
 		margin-top:0px;
@@ -11950,7 +11939,7 @@ xnugget info
 	transition: 0.3s ease;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 512px) {
 	.content {
 		margin: 0 4%;
 		margin-top: 5%;
@@ -12172,33 +12161,8 @@ xnugget info
 
 /************************
 ***********************/
-
 .secure-msgs{
-	position: relative;
-    height: 750px;
-    background: #c1d2ff;
-	overflow:hidden;
-}
-.secure-msgs .container{
 	position:relative;
-	z-index:1;
-}
-.secure-msgs:after{
-	background-image: url(../images/secure-msgs.png);
-    background-color: #eff8ff;
-    background-position: left;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 100%;
-    position: relative;
-    overflow: hidden;
-	width:100%;
-	content:"";
-	position:absolute;
-	top:0;
-	left:0;
-	z-index:0;
-	opacity:.6;
 }
 .secure-img1 {
     position: absolute;
@@ -12715,7 +12679,6 @@ input[type="text"],
 .FormGDPR fieldset {
 	display: flex;
 	flex-wrap: wrap;
-	border:0;
 }
 
 .FormGDPR__RadioOption {
@@ -12858,7 +12821,26 @@ input[type="radio"] {
         top: 24px;
     }
 }
-
+@media screen and (max-width: 380px) { 
+    .process-model.more-icon-preocess li {
+        width: 16%;
+    }
+    .more-icon-preocess.process-model li span {
+        font-size: 16px;
+        height: 35px;
+        line-height: 32px;
+        width: 35px;
+    }
+    .more-icon-preocess.process-model li p {
+        font-size: 8px;
+    }
+    .more-icon-preocess.process-model li::after {
+        top: 18px;
+    }
+    .process-model.more-icon-preocess {
+        text-align: center;
+    }
+}
 
 /*******************buy a plan********/
 
@@ -13490,7 +13472,4 @@ Radio & Checkbox CSS
     width: 30px;
     height: 30px;
 }
-
-
-
 

@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <meta name="description" title="website designing companies" content="website design and development services">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
     <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
@@ -54,71 +55,6 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
-	
-	
 	<!--New Header-->
 	<?php include "inc/header.php";?>	
 	<!--New header end-->
@@ -149,7 +85,6 @@
 			</div>
 			
 		</div>
-	
 	
 	
 		<div class="ssl-certification">
@@ -192,7 +127,28 @@
 							<div class="col-md-6 col-12">
 								<div class="video-pen">
 									
-									
+									<div id="counter" class="statistics-section">
+										<div class="row">
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">10</span> <span>K</span></h4>
+													<p>App Downloads</p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter">4</span> <span>+</span></h4>
+													<p>Average Review </p>
+												</div>
+											</div>
+											<div class="col-md-4 col-4 stastic-col">
+												<div class="stastic">
+													<h4><span class="counter percent">1</span> <span>M</span></h4>
+													<p>Active Users</p>
+												</div>
+											</div>
+										</div>
+									</div>
 									
 								</div>
 							</div>
@@ -252,13 +208,13 @@
 	<section id="box2" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img2.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2> Reducing the  <span class="highlighted"> gap</span></h2>
@@ -296,13 +252,13 @@
 	<section id="box4" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2><span class="highlighted">Multilingual</span></h2>
@@ -348,13 +304,13 @@
 	<section id="box6" class="lms-section section bg-light">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img4.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 order-1 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Instant <span class="highlighted">notification</span></h2>
@@ -391,13 +347,13 @@
 	<section id="box7" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Effective student-teachers <span class="highlighted">interaction</span></h2>
@@ -433,13 +389,13 @@
 	<section id="box7" class="lms-section section">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-2">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
 						<img src="images/img3.jpg" alt="">
 					</div>
 				</div>
 				
-				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
 					<div class="lms-content">
 						<div class="section-title">
 							<h2>Multiple account <span class="highlighted">access</span></h2>

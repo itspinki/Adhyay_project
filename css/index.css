@@ -1093,7 +1093,7 @@ textarea {
     top: 0;
     left: 0; }
     .parallax__container__paragraph {
-      font-family: "Lato", sans-serif;
+      font-family: 'League Spartan', sans-serif;
       color: #7adaff;
       z-index: 5;
       width: 18rem;
@@ -1605,12 +1605,12 @@ textarea {
       .srms__top {
         margin-bottom: 5rem; } }
   .srms__heading {
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: 500; }
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700; }
     .srms__heading--for {
       font-size: 2.8rem; }
   .srms__paragraph {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400; }
   @media only screen and (max-width: 48em) {
     .srms__grid--heading {
@@ -3241,7 +3241,8 @@ textarea {
 	bottom:30%;
 	left:10%;
 	z-index:1;
-	color:#fff;
+	color: #0f155e;
+
 	font-family:"Source Sans Pro", sans-serif;
 	right:0;
 	left:0;
@@ -3249,11 +3250,14 @@ textarea {
 	text-align:center;
 	text-transform:uppercase;
 }
+/* ***********changed******** */
 .hero-banner h2 span{
-	background: #0053cf;
+	/* background: #0053cf; */
     padding: 10px 30px;
-    border-radius: 0;
+    border-radius: 10px;
+    /* text-shadow:0 0 5px  #2F6192; */
 }
+
 .privacy-policy-wrapper{
 	max-width: 1280px;
     padding: 0 30px;
@@ -3297,4 +3301,10 @@ textarea {
 .paragraph-wrapper ul li ol li .numbers,.paragraph-wrapper ul li ol li .numbers li {
 	padding-left:20px;
 	padding-top:10px;
+}
+
+
+/* ******************************************new css************** */
+body{
+  font-family:'League Spartan', sans-serif;
 }

@@ -46,70 +46,6 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
-	
 	
 	<!--New Header-->
 	<?php include "inc/header.php";?>	
@@ -118,7 +54,6 @@
 	<!-- New structure-->
 	
 	<section class="hero-section" >
-	
 		<div class="container-fluid">
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
@@ -135,19 +70,11 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
-					<div class="hero-layers" id="hero-layers">
-						<!--<img src="images/hero-layers/layer-main.png" alt="" class="hero__layer hero__layer_1" id="h__layer_1">
-						<img src="images/hero-layers/pencils.png" alt="" class="hero__layer hero__layer_2" id="h__layer_2">
-						<img src="images/hero-layers/glasses3.png" alt="" class="hero__layer hero__layer_3" id="h__layer_3">
-						<img src="images/hero-layers/wood_pencil.png" alt="" class="hero__layer hero__layer_4" id="h__layer_4">-->
-						
-					</div>
+					<div class="hero-layers" id="hero-layers"></div>
 				</div>
 			</div>
 			<img src="images/hero-layers/video-conferencing-img01.png" alt="" class="hero__layer hero__layer_5" id="h__layer_5">
-			
 		</div>
-	
 	
 	
 		<div class="ssl-certification">
@@ -166,217 +93,137 @@
 		</div>
 	</section>
 	
-	
-	<!--<section class="about-app video-entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
+	<!-- content starts -->
+	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>"Get started with our" <span class="highlighted">Learning Management System”</span></h2>
-									<p>Adhyay LMS is the most powerful software at present, for online classes and digital classroom environment. With our latest advancement, we are providing a complete solution for the remote/online class management system in 100 different languages.</p>
-								</div>
-								<div class="video-enter">
-									<div class="vpop" data-type="youtube" data-id="6xcG6ttMDVY" data-autoplay='true'>
-										<svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 16 16">
-										  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-										</svg>
-										<h4>See how it works</h4>
-									</div>
-									
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-									
-									
-								</div>
-							</div>
-						</div>
+			<div class="section-title text-center">
+				<h2>Key features of <span class="highlighted">video meeting solution</span></h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Online <span class="highlighted">video meetings</span></h2>
+							 <p>Communicate thoughts and articulate ideas better through online video conferencing. Use your desktop camera or an external camera for video meetings and build consensus through face-to-face collaboration, leaving no space for confusion or ambiguity.</p>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>-->
-
+	</section>
 	
-	
-	<!--About-->
-<!-- middle-point -->
-
-
-	<section class="about-app video-about-app section lms-custom-class">
+	<!-- content starts -->
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
 		<div class="container">
-		<div class="section-title text-center">
-	<h2>Key features of <span class="highlighted">video meeting solution</span></h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>Online <span class="highlighted">video meetings</span></h2>
-                         <p>Communicate thoughts and articulate ideas better through online video conferencing. Use your desktop camera or an external camera for video meetings and build consensus through face-to-face collaboration, leaving no space for confusion or ambiguity.</p>
-								</div>
-								<!-- <div id="counter" class="statistics-section">
-									<div class="row">
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">10</span> <span>K</span></h4>
-												<p>App Downloads</p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">4</span> <span>+</span></h4>
-												<p>Average Review </p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter percent">1</span> <span>M</span></h4>
-												<p>Active Users</p>
-											</div>
-										</div>
-									</div>
-								</div> -->
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Single <span class="highlighted">video feeds</span></h2>
+							<p>View everyone in your online video conferencing session simultaneously through multiple video feeds. With Adhyay YU, you can have up to 200 participants in one meeting.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="about-app video-about-app section">
+	<section id="box1" class="lms-section section lms-custom-class " >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Single <span class="highlighted">video feeds</span></h2>
-                <p>View everyone in your online video conferencing session simultaneously through multiple video feeds. With Adhyay YU, you can have up to 200 participants in one meeting.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Secure  <span class="highlighted">video meeting software</span></h2>
+							<p>Adhyay YU is a secure video conferencing platform that puts your privacy first. Adhyay YU will always request your permission before enabling your web camera and transmitting your video. </p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-	<section class="about-app video-about-app section">
+	
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-2">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12  ">
-								<div class="section-title">
-									<h2>Secure  <span class="highlighted">video meeting software</span></h2>
-                  <p>Adhyay YU is a secure video conferencing platform that puts your privacy first. Adhyay YU will always request your permission before enabling your web camera and transmitting your video. </p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
 					</div>
 				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Screen sharing  <span class="highlighted"> and chat</span></h2>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Screen sharing  <span class="highlighted"> and chat</span></h2>
                            <p>Share your screen to add context to your presentation during video meetings. Share a document with all meeting participants or deliver a slide presentation if you want. You can easily use the chat feature to send messages or links to everyone in a meeting. You can also record your screen sharing sessions and use these recordings for future references.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class " >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Cost-effective  <span class="highlighted">video conferencing software</span></h2>
+							<p>Video conferencing online helps your organisation to cut down on expenses incurred due to travelling allow employees to work safely from home. Using Adhyay YU video conferencing app, users can directly initiate a mobile meeting with remote users in just an instant. With our affordable pricing and smooth video conference connectivity, Adhyay yu is one of the best video conferencing solutions for small businesses.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Web video  <span class="highlighted">conferencing</span></h2>
+							<p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-2">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 ">
-								<div class="section-title">
-									<h2>Cost-effective  <span class="highlighted">video conferencing software</span></h2>
-                  <p>Video conferencing online helps your organisation to cut down on expenses incurred due to travelling allow employees to work safely from home. Using Adhyay YU video conferencing app, users can directly initiate a mobile meeting with remote users in just an instant. With our affordable pricing and smooth video conference connectivity, Adhyay yu is one of the best video conferencing solutions for small businesses.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 
-	<section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Web video  <span class="highlighted">conferencing</span></h2>
-                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 
 	<!--End about-->
 	
@@ -396,140 +243,94 @@
 
 
 	<!-- content starts -->
-
-	<section class="about-app video-about-app section lms-custom-class">
+	
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
 		<div class="container">
-		<div class="section-title text-center">
-	<h2>Choose Adhyay YU for all your <span class="highlighted">video conferencing needs</span></h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Web video  <span class="highlighted">conferencing</span></h2>
-                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			<div class="section-title text-center">
+				<h2>Choose Adhyay YU for all your <span class="highlighted">video conferencing needs</span></h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Web video  <span class="highlighted">conferencing</span></h2>
+							<p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class " >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Virtual video  <span class="highlighted">meeting platform</span></h2>
+							<p>Conduct interactive, face-to-face video meetings in real time using video, audio, and screen sharing.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="about-app video-about-app section">
+		
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-2">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12  ">
-								<div class="section-title">
-									<h2>Virtual video  <span class="highlighted">meeting platform</span></h2>
-                       <p>Conduct interactive, face-to-face video meetings in real time using video, audio, and screen sharing.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Audio  <span class="highlighted">conferencing</span></h2>
+							<p>Collaborate with your peers through audio-only remote meetings and enable your video feed when required.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-	<!-- <section class="about-app video-about-app section">
+	
+	<section id="box1" class="lms-section section lms-custom-class " >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Web video  <span class="highlighted">conferencing</span></h2>
-                        <p>Adhyay YU provides the best video conferencing software that is web-based and does not require any downloads. You can start and join online meetings directly from your browser and collaborate from anywhere you want.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			<div class="section-title  text-center">
+				<h2> Collaborate with your team <span class="highlighted"> on-the-go!</span></h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/video-conferencing-img03.png" alt="">
 					</div>
 				</div>
-			</div>
-		</div>
-	</section> -->
-
-	<section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Audio  <span class="highlighted">conferencing</span></h2>
-                          <p>Collaborate with your peers through audio-only remote meetings and enable your video feed when required.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Use Adhyay YU for iOS and Android and conduct <span class="highlighted">video conferences from your mobile phone.</span></h2>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-<!-- next heading -->
-
-	<section class="about-app video-about-app section lms-custom-class">
-		<div class="container">
-		<div class="section-title  text-center">
-	<h2> Collaborate with your team <span class="highlighted"> on-the-go!</span></h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2> Use Adhyay YU for iOS and Android and conduct <span class="highlighted">video conferences from your mobile phone.</span></h2>
-								</div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-
-
-
-
 
 	<!-- content ends -->
 	
@@ -540,13 +341,7 @@
 			</div>
 			
 			<div class="tab-section">
-				<!-- about -->
-				<div class="about">
-					<a class="bg_links social portfolio" href="https://www.rafaelalucas.com" target="_blank"> <span class="icon"></span> </a>
-					<a class="bg_links social dribbble" href="https://dribbble.com/rafaelalucas" target="_blank"> <span class="icon"></span> </a>
-					<a class="bg_links social linkedin" href="https://www.linkedin.com/in/rafaelalucas/" target="_blank"> <span class="icon"></span> </a>
-					<a class="bg_links logo"></a>
-				</div>
+				
 				<!-- end about -->
 				<section id="wrapper">
 					<div class="content">
@@ -643,16 +438,7 @@
 		</div>
 	</section>
 	
-	<section class="secure-msgs section" style="
-	background-image: url(images/secure-msgs.png);
-    background-color: #eff8ff;
-    background-position: left;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 750px;
-    position: relative;
-    overflow: hidden;
-	">
+	<section class="secure-msgs section" >
 		<div class="container h-100">
 			<div class="row h-100">
 				<div class="col-lg-7 col-12"></div>
@@ -829,7 +615,6 @@
 
 	<!--Price list-->
 	
-	
 	<section class="section price__list">
 		<div class="container">
 			<div class="section-title text-center">
@@ -846,27 +631,30 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;9 <span class="pricing-period">/ Student</span> </div>
+					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;999 <span class="pricing-period">/ Month</span> </div>
 					<h3 class="pricing-title">Standared plan</h3> </div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">50,000 SMS pack/year</li>
+					<li class="pricing-feature">Upto 100 Participants	</li>
+					<li class="pricing-feature">Upto 60mins meeting & length	</li>
+					<li class="pricing-feature">1 License</li>
+					<li class="pricing-feature">HD Video calls	</li>
+					<li class="pricing-feature">Desktop Storage	Upto 100GB</li>
+					<li class="pricing-feature">Cloud MP4 Recording storage	Uto 100GB</li>
+					<li class="pricing-feature">Add an alternative host(co-host)	</li>
+					<li class="pricing-feature">Co host can let others start and manage your meetings	</li>
+					<li class="pricing-feature">Single person screen sharing	</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">Interactive Digiboard (single person editable)	</li>
+					<li class="pricing-feature">Breakout Rooms	</li>
+					<li class="pricing-feature">Call logs and history	</li>
+					<li class="pricing-feature">Disable all participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality	</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Password protected meeting links</li>
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
@@ -878,36 +666,43 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;18 <span class="pricing-period">/ Student</span> </div>
-					<h3 class="pricing-title">Platinum Plan</h3> 
+					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;1799 <span class="pricing-period">/ Month</span> </div>
+					<h3 class="pricing-title">Enterprise Plan</h3> 
 				</div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Homework report</li>
-					<li class="pricing-feature">Homework notification to parents</li>
-					<li class="pricing-feature">Manage school timetable</li>
-					<li class="pricing-feature">Mobile app for parents</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">100,000 SMS pack/year</li>
-					<li class="pricing-feature">RFID automated attendance</li>
-					<li class="pricing-feature">Attendance SMS to parents</li>
-					<li class="pricing-feature">RFID card for students</li>
-					<li class="pricing-feature">RFID cards for staff</li>
+					<li class="pricing-feature">Unlimited Hours upto 500 Participants</li>
+					<li class="pricing-feature">Maximum Meeting Length Upto 24 Hours</li>
+					<li class="pricing-feature">5 Licenses</li>
+					<li class="pricing-feature">HD Video calls</li>
+					<li class="pricing-feature">Desktop Storage Upto 1TB</li>
+					<li class="pricing-feature">Cloud MP4 Recording Storage Upto 1TB</li>
+					<li class="pricing-feature">Add Utp 5 Hosts</li>
+					<li class="pricing-feature">Co host can let others start and manage the meeting</li>
+					<li class="pricing-feature">Single Person screen sharing</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">Host and co-hosts can edit the digi board</li>
+					<li class="pricing-feature">Breakout Rooms</li>
+					<li class="pricing-feature">Edit the call record according to your need	</li>
+					<li class="pricing-feature">Disable and Enable participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Noise Reduction	</li>
+					<li class="pricing-feature">Group messaging/private messages	</li>
+					<li class="pricing-feature">Share file attachments(pdf,doc,png)	Upto 55GB</li>
+					<li class="pricing-feature">Share your fav emojis	</li>
+					<li class="pricing-feature">Messaging and file sharing Limited to 55MB</li>
+					<li class="pricing-feature">Participant Availaibility status</li>
+					<li class="pricing-feature">Secure Meeting messaging technology	</li>
+					<li class="pricing-feature">Password protected meeting links</li>
+					<li class="pricing-feature">Encrypted cloud meetings</li>
+					<li class="pricing-feature">End-to-End Encryption	</li>
+					<li class="pricing-feature">Enforce meeting password when joining from any device	</li>
+					<li class="pricing-feature">Allow user before joining option	</li>
+
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
@@ -919,37 +714,49 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;15 <span class="pricing-period">/ Student</span> </div>
-					<h3 class="pricing-title">Advance Plan</h3> 
+					<div class="pricing-price"><span class="pricing-currency"> Starting at</span> &#8377;1499 <span class="pricing-period">/ Month</span> </div>
+					<h3 class="pricing-title">Platinum Plan</h3> 
 				</div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Homework report</li>
-					<li class="pricing-feature">Homework notification to parents</li>
-					<li class="pricing-feature">Manage school timetable</li>
-					<li class="pricing-feature">Mobile app for parents</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">80,000 SMS pack/year</li>
+					<li class="pricing-feature">Unlimited Hours upto 200 Participants</li>
+					<li class="pricing-feature">Maximum meeting & length upto 24 Hours</li>
+					<li class="pricing-feature">2 Licenses</li>
+					<li class="pricing-feature">HD Video calls	</li>
+					<li class="pricing-feature">Desktop Storage	Upto 1TB</li>
+					<li class="pricing-feature">Cloud MP4 Recording storage	Upto 1TB</li>
+					<li class="pricing-feature">Add Upto 2 hosts	</li>
+					<li class="pricing-feature">Co host can let others start and manage your meetings	</li>
+					<li class="pricing-feature">Single person screen sharing	</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">All users can edit the digi board at a time	</li>
+					<li class="pricing-feature">Breakout Rooms	</li>
+					<li class="pricing-feature">Edit the call record according to your need	</li>
+					<li class="pricing-feature">Disable and Enable participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality	</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Noise Reduction	</li>
+					<li class="pricing-feature">Group messaging/private messages	</li>
+					<li class="pricing-feature">Share file attachments(pdf,doc,png)	Upto 30GB</li>
+					<li class="pricing-feature">Share your fav emojis	</li>
+					<li class="pricing-feature">Limited to 30GB file sharing, with no message history	</li>
+					<li class="pricing-feature">Participant Availaibility status	</li>
+					<li class="pricing-feature">Secure Meeting messaging technology	</li>
+					<li class="pricing-feature">Encrypted cloud meetings	</li>
+					<li class="pricing-feature">End-to-End Encryption	</li>
+					<li class="pricing-feature">Enforce meeting password when joining from any device	</li>
+					<li class="pricing-feature">Allow user before joining option	</li>
+
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
 		</div>
 	</section>
+
+
 	<!--End price list-->
 	
 	<section class="section-testimonials" >

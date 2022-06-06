@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/fontsize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
     <link rel="stylesheet" href="css/inner.css">
+	<link rel="stylesheet" href="css/responsive.css">
     <meta name="description" title="website designing companies" content="website design and development services">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
     <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
@@ -242,7 +243,7 @@
 						</th>
 						<th>
 							<div class="packtitle">Personalised Plan with customisable  Features For Enterprise And Institutions 
-								<br><small>CONTACT- info@adhyay.co.in</small></div>
+								</div>
 						</th>
 					</tr>
 					<tr>
@@ -333,7 +334,7 @@
 						<td><span>&#10003;</span> </td>
 						<td><span class="fa fa-remove">Add Upto 2 hosts</span> </td>
 						<td><span class="fa fa-remove">Add Upto 5 hosts</span> </td>
-						<td> </td>
+						<td> <span>CONTACT- info@adhyay.co.in</span></td>
 					</tr>
 					<tr>
 						<td>Co host can let others start and manage your meetings</td>
@@ -721,7 +722,6 @@
 	
 	<!--Price list-->
 	
-	
 	<section class="section price__list">
 		<div class="container">
 			<div class="section-title text-center">
@@ -738,27 +738,30 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;9 <span class="pricing-period">/ Student</span> </div>
+					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;999 <span class="pricing-period">/ Month</span> </div>
 					<h3 class="pricing-title">Standared plan</h3> </div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">50,000 SMS pack/year</li>
+					<li class="pricing-feature">Upto 100 Participants	</li>
+					<li class="pricing-feature">Upto 60mins meeting & length	</li>
+					<li class="pricing-feature">1 License</li>
+					<li class="pricing-feature">HD Video calls	</li>
+					<li class="pricing-feature">Desktop Storage	Upto 100GB</li>
+					<li class="pricing-feature">Cloud MP4 Recording storage	Uto 100GB</li>
+					<li class="pricing-feature">Add an alternative host(co-host)	</li>
+					<li class="pricing-feature">Co host can let others start and manage your meetings	</li>
+					<li class="pricing-feature">Single person screen sharing	</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">Interactive Digiboard (single person editable)	</li>
+					<li class="pricing-feature">Breakout Rooms	</li>
+					<li class="pricing-feature">Call logs and history	</li>
+					<li class="pricing-feature">Disable all participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality	</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Password protected meeting links</li>
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
@@ -770,36 +773,43 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;18 <span class="pricing-period">/ Student</span> </div>
-					<h3 class="pricing-title">Platinum Plan</h3> 
+					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;1799 <span class="pricing-period">/ Month</span> </div>
+					<h3 class="pricing-title">Enterprise Plan</h3> 
 				</div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Homework report</li>
-					<li class="pricing-feature">Homework notification to parents</li>
-					<li class="pricing-feature">Manage school timetable</li>
-					<li class="pricing-feature">Mobile app for parents</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">100,000 SMS pack/year</li>
-					<li class="pricing-feature">RFID automated attendance</li>
-					<li class="pricing-feature">Attendance SMS to parents</li>
-					<li class="pricing-feature">RFID card for students</li>
-					<li class="pricing-feature">RFID cards for staff</li>
+					<li class="pricing-feature">Unlimited Hours upto 500 Participants</li>
+					<li class="pricing-feature">Maximum Meeting Length Upto 24 Hours</li>
+					<li class="pricing-feature">5 Licenses</li>
+					<li class="pricing-feature">HD Video calls</li>
+					<li class="pricing-feature">Desktop Storage Upto 1TB</li>
+					<li class="pricing-feature">Cloud MP4 Recording Storage Upto 1TB</li>
+					<li class="pricing-feature">Add Utp 5 Hosts</li>
+					<li class="pricing-feature">Co host can let others start and manage the meeting</li>
+					<li class="pricing-feature">Single Person screen sharing</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">Host and co-hosts can edit the digi board</li>
+					<li class="pricing-feature">Breakout Rooms</li>
+					<li class="pricing-feature">Edit the call record according to your need	</li>
+					<li class="pricing-feature">Disable and Enable participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Noise Reduction	</li>
+					<li class="pricing-feature">Group messaging/private messages	</li>
+					<li class="pricing-feature">Share file attachments(pdf,doc,png)	Upto 55GB</li>
+					<li class="pricing-feature">Share your fav emojis	</li>
+					<li class="pricing-feature">Messaging and file sharing Limited to 55MB</li>
+					<li class="pricing-feature">Participant Availaibility status</li>
+					<li class="pricing-feature">Secure Meeting messaging technology	</li>
+					<li class="pricing-feature">Password protected meeting links</li>
+					<li class="pricing-feature">Encrypted cloud meetings</li>
+					<li class="pricing-feature">End-to-End Encryption	</li>
+					<li class="pricing-feature">Enforce meeting password when joining from any device	</li>
+					<li class="pricing-feature">Allow user before joining option	</li>
+
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
@@ -811,37 +821,48 @@
 						<path class="deco-layer deco-layer--3" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716H42.401L43.415,98.342z" fill="#FFFFFF" opacity="0.7"></path>
 						<path class="deco-layer deco-layer--4" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#FFFFFF"></path>
 					</svg>
-					<div class="pricing-price"><span class="pricing-currency">Starting at</span> &#8377;15 <span class="pricing-period">/ Student</span> </div>
-					<h3 class="pricing-title">Advance Plan</h3> 
+					<div class="pricing-price"><span class="pricing-currency"> Starting at</span> &#8377;1499 <span class="pricing-period">/ Month</span> </div>
+					<h3 class="pricing-title">Platinum Plan</h3> 
 				</div>
 				<ul class="pricing-feature-list">
-					<li class="pricing-feature">Cloud based system</li>
-					<li class="pricing-feature">Data security and encryption</li>
-					<li class="pricing-feature">Student management</li>
-					<li class="pricing-feature">Staff management</li>
-					<li class="pricing-feature">Parent management</li>
-					<li class="pricing-feature">Exam management</li>
-					<li class="pricing-feature">Generate automated reportcard</li>
-					<li class="pricing-feature">HR management</li>
-					<li class="pricing-feature">Payroll management</li>
-					<li class="pricing-feature">Fee management</li>
-					<li class="pricing-feature">Leave management</li>
-					<li class="pricing-feature">Pay fee online</li>
-					<li class="pricing-feature">Fee notifications</li>
-					<li class="pricing-feature">Analytics report</li>
-					<li class="pricing-feature">Generate reports</li>
-					<li class="pricing-feature">Print/download reports</li>
-					<li class="pricing-feature">Homework report</li>
-					<li class="pricing-feature">Homework notification to parents</li>
-					<li class="pricing-feature">Manage school timetable</li>
-					<li class="pricing-feature">Mobile app for parents</li>
-					<li class="pricing-feature">Create memories</li>
-					<li class="pricing-feature">80,000 SMS pack/year</li>
+					<li class="pricing-feature">Unlimited Hours upto 200 Participants</li>
+					<li class="pricing-feature">Maximum meeting & length upto 24 Hours</li>
+					<li class="pricing-feature">2 Licenses</li>
+					<li class="pricing-feature">HD Video calls	</li>
+					<li class="pricing-feature">Desktop Storage	Upto 1TB</li>
+					<li class="pricing-feature">Cloud MP4 Recording storage	Upto 1TB</li>
+					<li class="pricing-feature">Add Upto 2 hosts	</li>
+					<li class="pricing-feature">Co host can let others start and manage your meetings	</li>
+					<li class="pricing-feature">Single person screen sharing	</li>
+					<li class="pricing-feature">Schedule meetings from your own customized Adhyay calenders</li>
+					<li class="pricing-feature">All users can edit the digi board at a time	</li>
+					<li class="pricing-feature">Breakout Rooms	</li>
+					<li class="pricing-feature">Edit the call record according to your need	</li>
+					<li class="pricing-feature">Disable and Enable participant's camera	</li>
+					<li class="pricing-feature">HD Audio Quality	</li>
+					<li class="pricing-feature">Mute all Participants	</li>
+					<li class="pricing-feature">Voice recognition audio	</li>
+					<li class="pricing-feature">Connect to all audio device inputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Connect to all audio device outputs-Blutooth,headset,speaker,aux	</li>
+					<li class="pricing-feature">Noise Reduction	</li>
+					<li class="pricing-feature">Group messaging/private messages	</li>
+					<li class="pricing-feature">Share file attachments(pdf,doc,png)	Upto 30GB</li>
+					<li class="pricing-feature">Share your fav emojis	</li>
+					<li class="pricing-feature">Limited to 30GB file sharing, with no message history	</li>
+					<li class="pricing-feature">Participant Availaibility status	</li>
+					<li class="pricing-feature">Secure Meeting messaging technology	</li>
+					<li class="pricing-feature">Encrypted cloud meetings	</li>
+					<li class="pricing-feature">End-to-End Encryption	</li>
+					<li class="pricing-feature">Enforce meeting password when joining from any device	</li>
+					<li class="pricing-feature">Allow user before joining option	</li>
+
+
 				</ul>
 				<button class="pricing-action">Choose plan</button>
 			</div>
 		</div>
 	</section>
+
 	<!--End price list-->
 	
 	
