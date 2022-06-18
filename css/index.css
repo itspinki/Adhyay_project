@@ -1057,16 +1057,16 @@ textarea {
       .parallax__iphone--screen--1 {
         display: block;
         top: 0;
-        background-image: url(../images/phone2.jpeg);
+        background-image: url(../images/phone2.jpg);
         animation: parallaxPhoneScreenIn 2.5s; }
       .parallax__iphone--screen--2 {
         display: none;
         top: 100%;
-        background-image: url(../images/phone3.jpeg); }
+        background-image: url(../images/phone3.jpg); }
       .parallax__iphone--screen--3 {
         display: none;
         top: 100%;
-        background-image: url(../images/phone4.jpeg); }
+        background-image: url(../images/phone1.jpg); }
   .parallax__dot {
     position: absolute;
     top: 50%;
@@ -1407,7 +1407,7 @@ textarea {
         left: 8%;
         height: 22.8rem;
         width: 22.8rem;
-        background-image: url(../images/rfid.png);
+        background-image: url(../images/rfid\ \(1\).png);
         background-repeat: no-repeat;
         background-size: contain;
         visibility: hidden; }

@@ -102,7 +102,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/7.png" alt="">
 					</div>
 				</div>
 				
@@ -124,7 +124,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/9.png" alt="">
 					</div>
 				</div>
 				
@@ -145,7 +145,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/8.png" alt="">
 					</div>
 				</div>
 				
@@ -166,7 +166,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/11.png" alt="">
 					</div>
 				</div>
 				
@@ -187,7 +187,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/10.png" alt="">
 					</div>
 				</div>
 				
@@ -208,7 +208,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/12.png" alt="">
 					</div>
 				</div>
 				
@@ -252,7 +252,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/meet.jpg" alt="">
 					</div>
 				</div>
 				
@@ -271,9 +271,9 @@
 		<div class="container">
 			
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+				<div class="col-lg-7 col-md-7 col-12 order1">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/monitor.jpg" alt="">
 					</div>
 				</div>
 				
@@ -293,9 +293,9 @@
 		<div class="container">
 			
 			<div class="row">
-				<div class="col-lg-7 col-md-7 col-12">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/13.png" alt="">
 					</div>
 				</div>
 				
@@ -318,7 +318,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-12 order-md-2">
 					<div class="lms-figure">
-						<img src="images/video-conferencing-img03.png" alt="">
+						<img src="images/14.png" alt="">
 					</div>
 				</div>
 				

@@ -340,7 +340,7 @@
 								</div>
 								<div class="FormStandard__field FormStandard__field--full form-group">
 									<div class="FormStandard__text-only">
-										<p>By submitting the form, I agree to the <a href="https://zoom.us/privacy" target="_blank">Privacy Policy</a>.</p>
+										<p>By submitting the form, I agree to the <a href="privacy-policy.php" target="_blank">Privacy Policy</a>.</p>
 									</div>
 								</div>
 							</div>

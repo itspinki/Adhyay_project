@@ -263,7 +263,7 @@
 							<div class="col-md-6 col-12">
 								<div class="text-wiget">
 									<h4>General communications</h4>
-									<p>For general queries, including partnership opportunities, please email info@stripe.com</p>
+									<p>For general queries, including partnership opportunities, please email info@adhyay.co.in</p>
 								</div>
 							</div>
 						</div>

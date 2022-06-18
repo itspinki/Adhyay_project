@@ -10740,6 +10740,7 @@ SSL Icons
 /****************lms section************/
 .lms-figure img{
 	width:100%;
+  /* height: 50%; */
 	border-radius:10px;
 }
 .lms-content{
@@ -11920,7 +11921,7 @@ xnugget info
 	background:transparent;
 }
 .video-about-app .video-pen:after{
-	background:url(../images/video-conferencing-img03.png)no-repeat center center/cover;
+	background:url(../images/18.png)no-repeat center center/cover;
 	opacity:1;
 }
 .features{

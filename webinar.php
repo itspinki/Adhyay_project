@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhyay - Webinar</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,22 +13,13 @@
     <link rel="stylesheet" href="css/testimonials-slider.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/fontsize.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
     <link rel="stylesheet" href="css/inner.css">
-    <meta name="description" title="website designing companies" content="website design and development services">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180966897-1"></script>
-    <meta name="google-site-verification" content="yHl507Ba3S0rLhQtSemYfciNHcTgfSiQuqFjMRO5V-A">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/responsive.css">
+    
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-	<script src="https://rawgit.com/cfoehrdes/slick/master/slick/slick.js"></script>
 	
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-180966897-1');
-</script>
 </head>
 <body>
 	<div id="video-popup-overlay"></div>
@@ -54,70 +46,6 @@
 
     </script>
 
-    <!--                                            HEADER                                          -->
-
-    <!--<header class="header">
-        <a href="index.html" class="header__icon">
-            <img src="images/logo.png" alt="">
-        </a>
-        <div class="header__menu">
-            <div class="header__products">
-                <a href="srms.html" class="header__link heading--6 about__heading">
-                    SRMS
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="iot.html" class="header__link heading--6 about__heading">
-                    I.o.T
-                </a>
-            </div>
-            <div class="header__products">
-                <a href="ai.html" class="header__link heading--6 about__heading">
-                    A.I
-                </a>
-            </div>
-            <div class="header__websites">
-                <a href="website.html" class="header__link heading--6 about__heading">
-                    WEBSITES
-                </a>
-            </div>
-            <div class="header__about">
-                <a href="about.html" class="header__link heading--6 about__heading">
-                    ABOUT US
-                </a>
-            </div>
-            <div class="header__contact">
-                <a href="contact.html" class="header__link heading--6 about__heading">
-                    CONTACT US
-                </a>
-            </div>
-        </div>
-
-        <svg class="header__navigationButton" id="navigation__dot--in">
-            <use href="images/navigation.svg#icon-flickr"></use>
-        </svg>
-
-    </header>-->
-
-    <!--                                        dropLeft                                            -->
-	
-	
-    <!--<div class="dropleft">
-        <svg class="dropleft__navigationButton" id="navigation__dot--out">
-            <use href="images/navigation.svg#icon-flickr2"></use>
-        </svg>
-        <div class="dropleft__menu">
-            <a href="srms.html" class="dropleft__item dropleft__item--1">SRMS</a>
-            <a href="iot.html" class="dropleft__item dropleft__item--2">I.o.T</a>
-            <a href="ai.html" class="dropleft__item dropleft__item--3">A.I.</a>
-            <a href="website.html" class="dropleft__item dropleft__item--4">WEBSITE</a>
-            <a href="about.html" class="dropleft__item dropleft__item--5">ABOUT US</a>
-            <a href="contact.html" class="dropleft__item dropleft__item--6">CONTACT</a>
-        </div>
-    </div>-->
-
-    <!--  SRMS -->
-	
 	
 	<!--New Header-->
 	<?php include "inc/header.php";?>	
@@ -126,30 +54,24 @@
 	<!-- New structure-->
 	
 	<section class="hero-section" >
-	
 		<div class="container-fluid">
 			<div class="row h-100">
 				<div id="hero-text-wrap" class="col-lg-6 col-md-6 col-12 d-flex align-items-center ">
 					<div id="hero-text" class="hero-text">
-						<h2>Enhance your online presence using Adhyay YU secure Video webinar platform</h2>
-						<h4>Conduct on-demand or live events and better connect with your audience Using Adhyay YU Video conferencing software for webinars.</h4>
+					<h2>Enhance your online presence using Adhyay YU secure </h2>
+						<h4>        Conduct on-demand or live events and better connect with your audience
+          Using Adhyay YU Video conferencing software for webinars.
+
+                                </h4>
 						<a href="" class="btn-custom cd-popup-trigger">Get a Free Demo</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-12">
-					<div class="hero-layers" id="hero-layers">
-						<!--<img src="images/hero-layers/layer-main.png" alt="" class="hero__layer hero__layer_1" id="h__layer_1">
-						<img src="images/hero-layers/pencils.png" alt="" class="hero__layer hero__layer_2" id="h__layer_2">
-						<img src="images/hero-layers/glasses3.png" alt="" class="hero__layer hero__layer_3" id="h__layer_3">
-						<img src="images/hero-layers/wood_pencil.png" alt="" class="hero__layer hero__layer_4" id="h__layer_4">-->
-						
-					</div>
+					<div class="hero-layers" id="hero-layers"></div>
 				</div>
 			</div>
 			<img src="images/hero-layers/video-conferencing-img01.png" alt="" class="hero__layer hero__layer_5" id="h__layer_5">
-			
 		</div>
-	
 	
 	
 		<div class="ssl-certification">
@@ -168,228 +90,186 @@
 		</div>
 	</section>
 	
-
-
-	<section class="about-app video-about-app section lms-custom-class">
+	<!-- content starts -->
+	<section id="box1" class="lms-section section lms-custom-class" >
 		<div class="container">
-		<div class="section-title text-center">
-	<h2>Expand your global outreach using  <span class="highlighted">Adhyay YU authentic video webinar platform</span></h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12">
-								<div class="section-title">
-									<h2>Conduct  <span class="highlighted">online events</span></h2>
-                  <p>Host virtual online events with multiple intuitive video feeds, supporting participants in real time. Choose the plan that fits your needs: Adhyay YU offers a wide range of plans supporting a variety of audiences right from to large enterprises.</p>
-                                </div>
-								<!-- <div id="counter" class="statistics-section">
-									<div class="row">
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">10</span> <span>K</span></h4>
-												<p>App Downloads</p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter">4</span> <span>+</span></h4>
-												<p>Average Review </p>
-											</div>
-										</div>
-										<div class="col-md-4 stastic-col">
-											<div class="stastic">
-												<h4><span class="counter percent">1</span> <span>M</span></h4>
-												<p>Active Users</p>
-											</div>
-										</div>
-									</div>
-								</div> -->
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			<div class="section-title text-center">
+				<h2>Expand your global outreach using<span class="highlighted">Adhyay YU authentic video webinar platform
+</span></h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/18.png" alt="">
 					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Conduct <span class="highlighted">online events</span></h2>
+                         <p>Host virtual online events with multiple intuitive video feeds, supporting participants in real time. Choose the plan that fits your needs: Adhyay YU offers a wide range of plans supporting a variety of audiences right from to large enterprises.
+</p>
+                        </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<!-- content starts -->
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/24.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Clutter-free  <span class="highlighted">controls</span></h2>
+                        <p>Simplified host controls make it easy to present your story in style. Interactive features help you boost your engagement with your attendees seamlessly.
+</p>
+                        </div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="about-app video-about-app section">
+	<section id="box1" class="lms-section section lms-custom-class " >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2> Clutter-free <span class="highlighted">controls</span></h2>
-                         <p>Simplified host controls make it easy to present your story in style. Interactive features help you boost your engagement with your attendees seamlessly.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/20.png" alt="">
 					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Smooth  <span class="highlighted">customisation</span></h2>
+                      <p>Customise your online events based on your business prospects and embed your links for registration on your organisation's website to maintain your brand authenticity. You can also customise your email invites based on your target audience and enhance your online webinar experience.
+</p>
+                        </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/21.png" alt="">
+					</div>
+				</div>
+				<!-- new content -->
+                <section id="box1" class="lms-section section lms-custom-class" >
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>Webinar features that help you <span class="highlighted"> scale your global connectivity
+
+</span></h2>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/18.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Efficient <span class="highlighted">video feeds</span></h2>
+                     <p>Simultaneously interact with everyone in your video conferencing session using our multiple video feeds. You can engage with your audiences with video screens at any given time.
+</p>
+                        </div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="about-app video-about-app section">
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Scheduled <span class="highlighted"> events</span></h2>
+                         <p>Easily schedule your events using our recurring webinars with session recording enabled. You can also set up multiple reminders and send out session invites based on your schedule.
+</p>
+                        </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class " >
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-2">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12  ">
-								<div class="section-title">
-									<h2>Smooth <span class="highlighted"> customisation</span></h2>
-                         <p>Customise your online events based on your business prospects and embed your links for registration on your organisation's website to maintain your brand authenticity. You can also customise your email invites based on your target audience and enhance your online webinar experience.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12">
+					<div class="lms-figure">
+						<img src="images/19.png" alt="">
 					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2>Record, reply  <span class="highlighted"> and share</span></h2>
+                     <p>Record your webinar using our webinar recording software and store it in the cloud. Replay the recording online, share it with those who missed your webinar or download it for offline use.
+</p>
+                        </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="box1" class="lms-section section lms-custom-class bg-light" >
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-md-2">
+					<div class="lms-figure">
+						<img src="images/23.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Secure <span class="highlighted"> audio and video</span></h2>
+                         <p>Conduct video webinars to build trust and better convey your thoughts using the best webinar software. In Adhyay YU , audio and video are end-to-end encryption.
+</p>
+                        </div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-    <!-- middle-point -->
-
-	<section class="about-app video-about-app section lms-custom-class ">
+    <section id="box1" class="lms-section section lms-custom-class bg-light" >
 		<div class="container">
-		<div class="section-title text-center">
-	<h2> Webinar features that help you scale your  <span class="highlighted">global connectivity</span></h2>
-	</div>
-
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-                                <h2>Efficient <span class="highlighted">video feeds </span></h2>
-                          <p>Simultaneously interact with everyone in your video conferencing session using our multiple video feeds. You can engage with your audiences with video screens at any given time.</p>
-
-                            </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
+			
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-12 order-1">
+					<div class="lms-figure">
+						<img src="images/24.png" alt="">
 					</div>
 				</div>
-			</div>
-		</div>
-	</section>
-
-    <section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 ">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 ">
-								<div class="section-title">
-									<h2>Scheduled <span class="highlighted">events</span></h2>
-                          <p>Easily schedule your events using our recurring webinars with session recording enabled. You can also set up multiple reminders and send out session invites based on your schedule.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-    <section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Record, reply  <span class="highlighted">and share</span></h2>
-                       <p>Record your webinar using our webinar recording software and store it in the cloud. Replay the recording online, share it with those who missed your webinar or download it for offline use.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-    <section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 ">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 ">
-								<div class="section-title">
-									<h2>Secure audio <span class="highlighted">  and video</span></h2>
-                          <p>Conduct video webinars to build trust and better convey your thoughts using the best webinar software. In Adhyay YU , audio and video are end-to-end encryption.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-    <section class="about-app video-about-app section">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12 col-md-12 col-12 order-1">
-					<div class="about-app-inner">
-						<div class="row">
-							<div class="col-md-6 col-12 order-1 d-flex align-items-center ">
-								<div class="section-title">
-									<h2>Sharing <span class="highlighted"> screen</span></h2>
-                          <p>Share your screen, an application window, or a connected monitor with your attendees using our live webinar platform to deliver presentations or collaborate on documents remotely.</p>
-                                </div>
-							</div>
-							<div class="col-md-6 col-12">
-								<div class="video-pen">
-									
-								</div>
-							</div>
-						</div>
-					</div>
+				
+				<div class="col-lg-5 col-md-5 col-12 order-md-1 d-flex align-items-center">
+					<div class="lms-content">
+						<div class="section-title">
+							<h2> Sharing  <span class="highlighted">screen</span></h2>
+                         <p>Share your screen, an application window, or a connected monitor with your attendees using our live webinar platform to deliver presentations or collaborate on documents remotely.
+</p>
+                        </div>
 				</div>
 			</div>
 		</div>
@@ -397,9 +277,7 @@
 
 
 
-    <!-- next-content -->
-
-
+	<!--End about-->
     <section class="about-app entrance-section  section" style="background:url(images/shape01.png)no-repeat center center/cover;">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -447,11 +325,15 @@
 			</div>
 		</div>
 	</section>
+	<!--End Cta-->
 
-    <!-- <div class="section-title changes">
-	<h2> Look at what our customers have to say about <span class="highlighted">  Adhyay YU webinar</span></h2>
-	</div> -->
 
+	<!-- content starts -->
+	
+
+
+	<!--End price list-->
+	
 	<section class="section-testimonials" >
 		<div class="">
 		<div class="slider">
@@ -497,9 +379,8 @@
 		</div>
 		
 	</section>
-
-
-    <section class="banner-footer">
+	
+	<section class="banner-footer">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-xl-8 col-lg-10 col-md-12 col-12">
@@ -567,5 +448,5 @@
 	<?php include "inc/footer.php";?>
 	
 	<script src="js/mynavigation.js"></script>
-    </body>
+</body>
 </html>
